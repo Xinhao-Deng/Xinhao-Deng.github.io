@@ -143,7 +143,7 @@ Shu Yang, Laizhong Cui, <b><u>Xinhao Deng</u></b>
 
 IEEE Transactions on Network and Service Management (TNSM), 2019.
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
+<a href="https://ieeexplore.ieee.org/abstract/document/8894136">
     <font color="red">[PDF]</font>
 </a>
 
