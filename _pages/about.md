@@ -41,7 +41,7 @@ ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/RAPIER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/papers/RAPIER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.
@@ -53,6 +53,30 @@ Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CP
 </div>
 </div>
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&amp;P 2023</div><img src='images/papers/ARES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Robust Multi-tab Website Fingerprinting Attacks in the Wild.
+
+Xinhao Deng, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
+
+IEEE Symposium on Security and Privacy (S&amp;P), 2023. (<em>CCF-A/TH-CPL-A</em>)
+
+<a href="http://www.thucsnet.com/wp-content/papers/xinhao_sp2023.pdf">
+    <font color="red">[PDF]</font>
+</a>
+<a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
+    <font color="red">[Code]</font>
+</a>
+<a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
+    <font color="red">[Dataset]</font>
+</a>
+
+</div>
+</div>
 
 
 
