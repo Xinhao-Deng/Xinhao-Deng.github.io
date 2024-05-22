@@ -27,7 +27,7 @@ His research focuses on network security and privacy, including website fingerpr
 - *2024.04*: I am selected to be part of the ACM CCS 2024 Artifact Evaluation Committee (AEC).
 - *2023.10*: I passed Ph.D. Qualifying Examination and became a Ph.D. Candidate.
 
-# 📝 Publications &amp; Preprints
+# 📝 Publications & Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/Holmes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,14 +60,14 @@ Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&amp;P 2023</div><img src='images/papers/ARES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2023</div><img src='images/papers/ARES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Robust Multi-tab Website Fingerprinting Attacks in the Wild.
 
 Xinhao Deng, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
 
-IEEE Symposium on Security and Privacy (S&amp;P), 2023. (<em>CCF-A/TH-CPL-A</em>)
+IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 
 <a href="http://www.thucsnet.com/wp-content/papers/xinhao_sp2023.pdf">
     <font color="red">[PDF]</font>
