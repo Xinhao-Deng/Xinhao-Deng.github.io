@@ -82,7 +82,7 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Unsupervised and Adaptive Tor Website Fingerprinting.</b>
@@ -111,7 +111,7 @@ IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security 2022</div><img src='images/papers/PrivateCTR.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security 2022</div><img src='images/papers/PrivateCTR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Practical differentially private online advertising.</b>
@@ -143,7 +143,7 @@ IEEE Transactions on Network and Service Management (TNSM), 2019.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/FISE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/Security4LLM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.</b>
