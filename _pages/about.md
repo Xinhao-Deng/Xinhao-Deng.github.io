@@ -118,7 +118,7 @@ IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A
 
 Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, <b><u>Xinhao Deng</u></b>, Qian Wang, Yong Jiang.
 
-Computers & Security, 2022. (<em>CCF-A/TH-CPL-A</em>)
+Computers & Security, 2022.
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
     <font color="red">[PDF]</font>
