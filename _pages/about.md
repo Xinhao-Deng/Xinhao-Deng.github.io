@@ -95,7 +95,7 @@ EAI SecureComm, 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/FuncE.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/papers/FuncE.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.
@@ -104,6 +104,25 @@ Qi Li, **Xinhao Deng**, Zhuotao Liu, Yuan Yang, Xiaoyue Zou, Mingwei Xu, Jianpin
 
 IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A/TH-CPL-A</em>)
 
+<a href="https://ieeexplore.ieee.org/document/9680702">
+    <font color="red">[PDF]</font>
+</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security 2022</div><img src='images/papers/FuncE.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Practical differentially private online advertising.
+
+Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, **Xinhao Deng**, Qian Wang, Yong Jiang.
+
+Computers & Security, 2022. (<em>CCF-A/TH-CPL-A</em>)
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
+    <font color="red">[PDF]</font>
+</a>
 
 </div>
 </div>
