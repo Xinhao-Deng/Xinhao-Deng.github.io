@@ -23,9 +23,10 @@ His research focuses on network security and privacy, including website fingerpr
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 Our reliable WF attack paper is accepted by ACM CCS 2024!
+- *2024.05*: &nbsp;🎉🎉 Our reliable WF attack paper is accepted by ACM CCS 2024!
 - *2024.04*: I am selected to be part of the ACM CCS 2024 Artifact Evaluation Committee (AEC).
 - *2023.10*: I passed Ph.D. Qualifying Examination and became a Ph.D. Candidate.
+- *2023.08*: &nbsp;🎉🎉 Our malicious traffic detection paper is accepted by ISOC NDSS 2024!
 
 # 📝 Publications & Preprints
 
