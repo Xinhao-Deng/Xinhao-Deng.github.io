@@ -65,7 +65,7 @@ Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CP
 
 Robust Multi-tab Website Fingerprinting Attacks in the Wild.
 
-Xinhao Deng, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
+**Xinhao Deng**, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
 
 IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 
@@ -78,6 +78,19 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 <a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
     <font color="red">[Dataset]</font>
 </a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2023</div><img src='images/papers/UAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unsupervised and Adaptive Tor Website Fingerprinting.
+
+Guoqiang Zhang, Jiahao Cao, Mingwei Xu, **Xinhao Deng**.
+
+EAI SecureComm, 2023.
+
 
 </div>
 </div>
