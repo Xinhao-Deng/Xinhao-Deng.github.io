@@ -85,7 +85,7 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Unsupervised and Adaptive Tor Website Fingerprinting.</b>
@@ -99,7 +99,7 @@ EAI SecureComm, 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/papers/FuncE.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/papers/FuncE.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.</b>
