@@ -127,6 +127,22 @@ Computers & Security, 2022. (<em>CCF-A/TH-CPL-A</em>)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2019</div><img src='images/papers/FISE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FISE: A Forwarding Table Structure for Enterprise Networks.
+
+Shu Yang, Laizhong Cui, **Xinhao Deng**, Qi Li, Yulei Wu, Mingwei Xu, Jianipng Wu.
+
+IEEE Transactions on Network and Service Management (TNSM), 2019.
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
+    <font color="red">[PDF]</font>
+</a>
+
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
