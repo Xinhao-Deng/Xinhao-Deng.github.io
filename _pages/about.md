@@ -34,8 +34,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 <b>Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.</b>
 
-<b><u>Xinhao Deng</u></b>
-, Qi Li, Ke Xu.
+<b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu.
  
 ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
 
@@ -47,8 +46,7 @@ ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/T
 
 <b>Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.</b>
 
-Yuqi Qing, Qilei Yin, <b><u>Xinhao Deng</u></b>
-, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
+Yuqi Qing, Qilei Yin, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
 
 Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CPL-A</em>)
 
@@ -67,8 +65,7 @@ Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CP
 
 <b>Robust Multi-tab Website Fingerprinting Attacks in the Wild.</b>
 
-<b><u>Xinhao Deng</u></b>
-, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
+<b><u>Xinhao Deng</u></b>, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
 
 IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 
@@ -90,8 +87,7 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 
 <b>Unsupervised and Adaptive Tor Website Fingerprinting.</b>
 
-Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>
-.
+Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>.
 
 EAI SecureComm, 2023.
 
@@ -104,8 +100,7 @@ EAI SecureComm, 2023.
 
 <b>Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.</b>
 
-Qi Li, <b><u>Xinhao Deng</u></b>
-, Zhuotao Liu, Yuan Yang, Xiaoyue Zou, Mingwei Xu, Jianping Wu.
+Qi Li, <b><u>Xinhao Deng</u></b>, Zhuotao Liu, Yuan Yang, Xiaoyue Zou, Mingwei Xu, Jianping Wu.
 
 IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A/TH-CPL-A</em>)
 
@@ -121,8 +116,7 @@ IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A
 
 <b>Practical differentially private online advertising.</b>
 
-Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, <b><u>Xinhao Deng</u></b>
-, Qian Wang, Yong Jiang.
+Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, <b><u>Xinhao Deng</u></b>, Qian Wang, Yong Jiang.
 
 Computers & Security, 2022. (<em>CCF-A/TH-CPL-A</em>)
 
@@ -138,8 +132,7 @@ Computers & Security, 2022. (<em>CCF-A/TH-CPL-A</em>)
 
 <b>FISE: A Forwarding Table Structure for Enterprise Networks.</b>
 
-Shu Yang, Laizhong Cui, <b><u>Xinhao Deng</u></b>
-, Qi Li, Yulei Wu, Mingwei Xu, Jianipng Wu.
+Shu Yang, Laizhong Cui, <b><u>Xinhao Deng</u></b>, Qi Li, Yulei Wu, Mingwei Xu, Jianipng Wu.
 
 IEEE Transactions on Network and Service Management (TNSM), 2019.
 
@@ -149,6 +142,23 @@ IEEE Transactions on Network and Service Management (TNSM), 2019.
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/FISE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.</b>
+
+Tianyu Cui, Yanling Wang, Chuanpu Fu, Yong Xiao, Sijia Li, <b><u>Xinhao Deng</u></b>, Yunpeng Liu, Qinglin Zhang, Ziyi Qiu, Peiyang Li, Zhixing Tan, Junwu Xiong, Xinyu Kong, Zujie Wen, Ke Xu, Qi Li.
+
+arXiv preprint, 2024.
+
+<a href="https://arxiv.org/pdf/2401.05778">
+    <font color="red">[PDF]</font>
+</a>
+
+</div>
+</div>
+
 
 
 
