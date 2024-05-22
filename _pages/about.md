@@ -169,6 +169,6 @@ arXiv preprint, 2024.
 
 # 💻 Academic Services
 - **Conference Reviewer**: SecureComm'23, ACSAC'22, ACSAC'20.
-- **Journal Reviewer**: TNSM'23, TNSM'22.
+- **Journal Reviewer**: TIFS, TNSM.
 - **Artifact Evaluation Committee**: CCS'24, ACSAC'22.
 - **External Reviewer**: CCS'24, NDSS'24, Security'23, S&P'22, WWW'22.
