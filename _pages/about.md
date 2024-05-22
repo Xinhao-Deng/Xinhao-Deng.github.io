@@ -82,7 +82,7 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2023</div><img src='images/papers/UAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unsupervised and Adaptive Tor Website Fingerprinting.
