@@ -34,9 +34,21 @@ His research focuses on network security and privacy, including website fingerpr
 
 Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.
 
-**Xinhao Deng**, Qi Li, Ke Xu
+**Xinhao Deng**, Qi Li, Ke Xu.
  
-In the Proceedings of ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)  
+ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/RAPIER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.
+
+Yuqi Qing, Qilei Yin, **Xinhao Deng**, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
+
+Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CPL-A</em>)
 
 </div>
 </div>
