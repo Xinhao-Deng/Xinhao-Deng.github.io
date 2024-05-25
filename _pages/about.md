@@ -162,12 +162,12 @@ arXiv preprint, 2024.
 
 
 # 💻 Internship Experience
-### Bytedance 
+## Bytedance 
 <em> Research Intern, Summer 2022 </em>
 
 Utilizing Graph Contrastive Learning to detect malicious users and abnormal behaviors on social platforms such as TikTok and Watermelon Video.
 
-### Microsoft Research Asia
+## Microsoft Research Asia
 <em> Research Intern, Summer 2020 </em>
 
 Predicting potential friendships in social networks based on GCNs enables the implementation of an accurate friend recommendation system. This technology has been practically applied to the social network of Microsoft's Xbox.
