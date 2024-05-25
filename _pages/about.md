@@ -161,6 +161,18 @@ arXiv preprint, 2024.
 </div>
 
 
+# 💻 Internship Experience
+### Bytedance 
+<em> Research Intern, Summer 2022 </em>
+
+Utilizing Graph Contrastive Learning to detect malicious users and abnormal behaviors on social platforms such as TikTok and Watermelon Video.
+
+### Microsoft Research Asia
+<em> Research Intern, Summer 2020 </em>
+
+Predicting potential friendships in social networks based on GCNs enables the implementation of an accurate friend recommendation system. This technology has been practically applied to the social network of Microsoft's Xbox.
+
+
 # 🎖 Honors and Awards
 - Tsinghua-Longfor Scholarship for Excellent Students. 2023.
 - Tsinghua-Yangtze River Delta Scholarship for Excellent Students. 2023
@@ -168,7 +180,7 @@ arXiv preprint, 2024.
 - China National Scholarship. 2019.
 - Gold Medal, ACM International Collegiate Programming Contest (ACM-ICPC) Asia Regional. 2018.
 
-# 💻 Academic Services
+# 📑 Academic Services
 - **Conference Reviewer**: SecureComm'23, ACSAC'22, ACSAC'20.
 - **Journal Reviewer**: TIFS, TNSM.
 - **Artifact Evaluation Committee**: CCS'24, ACSAC'22.
