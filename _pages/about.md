@@ -31,7 +31,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 # 📝 Publications & Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2024</div><img src='images/papers/DROPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2024</div><img src='images/papers/DROPS.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation.</b>
@@ -96,7 +96,7 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Unsupervised and Adaptive Tor Website Fingerprinting.</b>
@@ -109,7 +109,7 @@ EAI SecureComm, 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/papers/FuncE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/papers/FuncE.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.</b>
@@ -125,7 +125,7 @@ IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security 2022</div><img src='images/papers/PrivateCTR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security 2022</div><img src='images/papers/PrivateCTR.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Practical differentially private online advertising.</b>
@@ -157,7 +157,7 @@ IEEE Transactions on Network and Service Management (TNSM), 2019.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/Security4LLM.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/Security4LLM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.</b>
