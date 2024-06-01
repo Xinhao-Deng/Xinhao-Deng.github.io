@@ -23,12 +23,25 @@ His research focuses on network security and privacy, including website fingerpr
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
 - *2024.05*: &nbsp;🎉🎉 Our reliable WF attack paper is accepted by ACM CCS 2024!
 - *2024.04*: I am selected to be part of the ACM CCS 2024 Artifact Evaluation Committee (AEC).
 - *2023.10*: I passed Ph.D. Qualifying Examination and became a Ph.D. Candidate.
 - *2023.08*: &nbsp;🎉🎉 Our malicious traffic detection paper is accepted by ISOC NDSS 2024!
 
 # 📝 Publications & Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2024</div><img src='images/papers/DROPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation.</b>
+
+<b><u>Xinhao Deng</u></b>, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, Menghao Zhang, Yu Zhou, Jianping Wu.
+ 
+IEEE Transactions on Network and Service Management (TNSM), 2024.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/Holmes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,7 +96,7 @@ IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SecureComm 2023</div><img src='images/papers/UAF.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Unsupervised and Adaptive Tor Website Fingerprinting.</b>
