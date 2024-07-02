@@ -52,6 +52,13 @@ IEEE Transactions on Network and Service Management (TNSM), 2024.
  
 ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
 
+<a href="https://arxiv.org/pdf/2407.00918">
+    <font color="red">[PDF]</font>
+</a>
+<a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
+    <font color="red">[Code]</font>
+</a>
+
 </div>
 </div>
 
