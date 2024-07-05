@@ -23,13 +23,31 @@ His research focuses on network security and privacy, including website fingerpr
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
-- *2024.05*: &nbsp;🎉🎉 Our reliable WF attack paper is accepted by ACM CCS 2024!
-- *2024.04*: I am selected to be part of the ACM CCS 2024 Artifact Evaluation Committee (AEC).
-- *2023.10*: I passed Ph.D. Qualifying Examination and became a Ph.D. Candidate.
-- *2023.08*: &nbsp;🎉🎉 Our malicious traffic detection paper is accepted by ISOC NDSS 2024!
+- *2024.07*: &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
+- *2024.06*: &nbsp;Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
+- *2024.05*: &nbsp;Our reliable WF attack paper is accepted by ACM CCS 2024!
+- *2024.04*: &nbsp;I am selected to be part of the ACM CCS 2024 Artifact Evaluation Committee (AEC).
+- *2023.10*: &nbsp;I passed Ph.D. Qualifying Examination and became a Ph.D. Candidate.
+- *2023.08*: &nbsp;Our malicious traffic detection paper is accepted by ISOC NDSS 2024! Congratulations, Yuqi!
 
 # 📝 Publications & Preprints
+
+(*Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/Oscar.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Towards Fine-Grained Webpage Fingerprinting at Scale.</b>
+
+Xiyuan Zhao*, <b><u>Xinhao Deng</u></b>*, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu.
+ 
+ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
+
+
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2024</div><img src='images/papers/DROPS.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +57,10 @@ His research focuses on network security and privacy, including website fingerpr
 <b><u>Xinhao Deng</u></b>, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, Menghao Zhang, Yu Zhou, Jianping Wu.
  
 IEEE Transactions on Network and Service Management (TNSM), 2024.
+
+<a href="https://ieeexplore.ieee.org/document/10582912">
+    <font color="red">[PDF]</font>
+</a>
 
 </div>
 </div>
@@ -67,7 +89,7 @@ ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/T
 
 <b>Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.</b>
 
-Yuqi Qing, Qilei Yin, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
+Yuqi Qing*, Qilei Yin*, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
 
 Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CPL-A</em>)
 
