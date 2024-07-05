@@ -32,17 +32,16 @@ His research focuses on network security and privacy, including website fingerpr
 
 # 📝 Publications & Preprints
 
-(*Equal Contribution)
+(&#42;Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/Oscar.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/Oscar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Towards Fine-Grained Webpage Fingerprinting at Scale.</b>
 
-Xiyuan Zhao*, <b><u>Xinhao Deng</u></b>*, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu.
+Xiyuan Zhao&#42;, <b><u>Xinhao Deng</u></b>&#42;, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu.
  
 ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
-
 
 
 </div>
@@ -89,7 +88,7 @@ ACM Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/T
 
 <b>Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.</b>
 
-Yuqi Qing*, Qilei Yin*, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
+Yuqi Qing&#42;, Qilei Yin&#42;, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
 
 Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CPL-A</em>)
 
