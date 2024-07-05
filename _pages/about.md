@@ -23,9 +23,6 @@ His research focuses on network security and privacy, including website fingerpr
 
 
 # 🔥 News
-- *2024.07*: &nbsp;We release a codebase for website fingerprinting attacks, which supports the identification of darknet traffic and other types of encrypted traffic. <a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
-    <font color="red">[link]</font>
-</a>
 - *2024.07*: &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
 - *2024.06*: &nbsp;Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
 - *2024.05*: &nbsp;Our reliable WF attack paper is accepted by ACM CCS 2024!
