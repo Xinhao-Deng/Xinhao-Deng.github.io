@@ -23,6 +23,9 @@ His research focuses on network security and privacy, including website fingerpr
 
 
 # 🔥 News
+- *2024.07*: &nbsp;We release a codebase for website fingerprinting attacks, which supports the identification of darknet traffic and other types of encrypted traffic. <a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
+    <font color="red">[link]</font>
+</a>
 - *2024.07*: &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
 - *2024.06*: &nbsp;Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
 - *2024.05*: &nbsp;Our reliable WF attack paper is accepted by ACM CCS 2024!
@@ -201,7 +204,6 @@ arXiv preprint, 2024.
 </div>
 </div>
 
-
 # 💻 Internship Experience
 ## Bytedance 
 <em> Research Intern, Summer 2022 </em>
@@ -211,7 +213,7 @@ Utilizing Graph Contrastive Learning to detect malicious users and abnormal beha
 ## Microsoft Research Asia
 <em> Research Intern, Summer 2020 </em>
 
-Predicting potential friendships in social networks based on GCNs enables the implementation of an accurate friend recommendation system. This technology has been practically applied to the social network of Microsoft's Xbox.
+Predicting potential friendships in social networks based on GCNs enables the implementation of an accurate friend recommendation system.
 
 
 # 🎖 Honors and Awards
@@ -225,4 +227,4 @@ Predicting potential friendships in social networks based on GCNs enables the im
 - **Conference Reviewer**: SecureComm'23, ACSAC'22, ACSAC'20.
 - **Journal Reviewer**: TIFS, TNSM.
 - **Artifact Evaluation Committee**: CCS'24, ACSAC'22.
-- **External Reviewer**: CCS'24, NDSS'24, Security'23, S&P'22, WWW'22.
+- **External Reviewer**: S&P'25, CCS'24, NDSS'24, Security'23, S&P'22, WWW'22.
