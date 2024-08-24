@@ -24,7 +24,7 @@ His research focuses on network security and privacy, including website fingerpr
 <b> I am actively seeking opportunities in the job market. Please contact me if you are interested (email: dengxh23[at]mails[dot]tsinghua[dot]edu[dot]cn).</b>
 
 # 🔥 News
-- *2024.08*: &nbsp;Our two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
+- *2024.08*: &nbsp;Two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
 - *2024.07*: &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
 - *2024.06*: &nbsp;Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
 - *2024.05*: &nbsp;Our reliable WF attack paper is accepted by ACM CCS 2024!
