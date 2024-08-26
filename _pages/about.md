@@ -40,9 +40,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 <ol>
     <li>
-    Tianyu Cui, Yanling Wang, Chuanpu Fu, Yong Xiao, Sijia Li, <b><u>Xinhao Deng</u></b>, Yunpeng Liu, Qinglin Zhang, Ziyi Qiu, Peiyang Li, Zhixing Tan, Junwu Xiong, Xinyu Kong, Zujie Wen, Ke Xu, Qi Li. 
-    <br> Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems. 
-    <br> arXiv preprint, 2024.
+    Tianyu Cui, Yanling Wang, Chuanpu Fu, Yong Xiao, Sijia Li, <b><u>Xinhao Deng</u></b>, Yunpeng Liu, Qinglin Zhang, Ziyi Qiu, Peiyang Li, Zhixing Tan, Junwu Xiong, Xinyu Kong, Zujie Wen, Ke Xu, Qi Li. <em>Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.</em> 
     <br>
     <a href="https://arxiv.org/pdf/2401.05778">
         <font color="red">[PDF]</font>
@@ -55,19 +53,20 @@ His research focuses on network security and privacy, including website fingerpr
 <ol>
 <li>
     Xiyuan Zhao&#42;, <b><u>Xinhao Deng</u></b>&#42;, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu. 
-    <br> Towards Fine-Grained Webpage Fingerprinting at Scale. 
+    <em>Towards Fine-Grained Webpage Fingerprinting at Scale.</em> 
     <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
+    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Functional; 🏅Results Reproduced
     <br>
         [PDF]
         <a href="https://zenodo.org/records/13327934">
             <font color="red">[Code]</font>
         </a>
-    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Functional; 🏅Results Reproduced
+    
 </li>
 
 <li>
     <b><u>Xinhao Deng</u></b>, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, Menghao Zhang, Yu Zhou, Jianping Wu.
-    <br> Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation. 
+    <em>Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation.</em> 
     <br> IEEE Transactions on Network and Service Management (TNSM), 2024.
     <br> <a href="https://ieeexplore.ieee.org/document/10582912">
     <font color="red">[PDF]</font>
@@ -76,8 +75,9 @@ His research focuses on network security and privacy, including website fingerpr
 
 <li>
     <b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu.
-    <br> Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.
+    <em>Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.</em>
     <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
+    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Reusable; 🏅Results Reproduced
     <br>
         <a href="https://arxiv.org/pdf/2407.00918">
             <font color="red">[PDF]</font>
@@ -85,12 +85,12 @@ His research focuses on network security and privacy, including website fingerpr
         <a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
             <font color="red">[Code]</font>
         </a>
-    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Reusable; 🏅Results Reproduced
+    
 </li>
 
 <li>
     Yuqi Qing&#42;, Qilei Yin&#42;, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
-    <br> Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic
+    <em>Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.</em>
     <br> Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CPL-A</em>)
     <br>
         <a href="https://arxiv.org/pdf/2309.04798.pdf">
@@ -108,7 +108,7 @@ His research focuses on network security and privacy, including website fingerpr
 <ol>
 <li>
     <b><u>Xinhao Deng</u></b>, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
-    <br> Robust Multi-tab Website Fingerprinting Attacks in the Wild.
+    <em>Robust Multi-tab Website Fingerprinting Attacks in the Wild.</em>
     <br> IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
     <br>
         <a href="http://www.thucsnet.com/wp-content/papers/xinhao_sp2023.pdf">
@@ -124,7 +124,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 <li>
     Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>.
-    <br> Unsupervised and Adaptive Tor Website Fingerprinting.
+    <em>Unsupervised and Adaptive Tor Website Fingerprinting.</em>
     <br> EAI SecureComm, 2023.
 </li>
 </ol>
@@ -134,7 +134,7 @@ His research focuses on network security and privacy, including website fingerpr
 <ol>
 <li>
     Qi Li, <b><u>Xinhao Deng</u></b>, Zhuotao Liu, Yuan Yang, Xiaoyue Zou, Mingwei Xu, Jianping Wu.
-    <br> Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.
+    <em> Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.</em>
     <br> IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A/TH-CPL-A</em>)
     <br>
        <a href="https://ieeexplore.ieee.org/document/9680702">
@@ -144,7 +144,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 <li>
     Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, <b><u>Xinhao Deng</u></b>, Qian Wang, Yong Jiang.
-    <br> Practical Differentially Private Online Advertising.
+    <em> Practical Differentially Private Online Advertising.</em>
     <br> Computers & Security, 2022.
     <br>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
@@ -154,7 +154,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 <li>
     Shu Yang, Laizhong Cui, <b><u>Xinhao Deng</u></b>, Qi Li, Yulei Wu, Mingwei Xu, Jianipng Wu.
-    <br> FISE: A Forwarding Table Structure for Enterprise Networks.
+    <em> FISE: A Forwarding Table Structure for Enterprise Networks.</em>
     <br> IEEE Transactions on Network and Service Management (TNSM), 2019.
     <br>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
