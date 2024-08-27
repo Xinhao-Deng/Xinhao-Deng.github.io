@@ -51,6 +51,23 @@ His research focuses on network security and privacy, including website fingerpr
 
 ### 2024
 <ol>
+
+<li>
+    <b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu.
+    <em>Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.</em>
+    <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
+    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Reusable; 🏅Results Reproduced
+    <br>
+        <a href="https://arxiv.org/pdf/2407.00918">
+            <font color="red">[PDF]</font>
+        </a>
+        <a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
+            <font color="red">[Code]</font>
+        </a>
+    
+</li>
+
+
 <li>
     Xiyuan Zhao&#42;, <b><u>Xinhao Deng</u></b>&#42;, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu. 
     <em>Towards Fine-Grained Webpage Fingerprinting at Scale.</em> 
@@ -71,21 +88,6 @@ His research focuses on network security and privacy, including website fingerpr
     <br> <a href="https://ieeexplore.ieee.org/document/10582912">
     <font color="red">[PDF]</font>
     </a>        
-</li>
-
-<li>
-    <b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu.
-    <em>Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.</em>
-    <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
-    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Reusable; 🏅Results Reproduced
-    <br>
-        <a href="https://arxiv.org/pdf/2407.00918">
-            <font color="red">[PDF]</font>
-        </a>
-        <a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
-            <font color="red">[Code]</font>
-        </a>
-    
 </li>
 
 <li>
