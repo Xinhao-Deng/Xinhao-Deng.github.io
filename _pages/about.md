@@ -179,6 +179,7 @@ Predicting potential friendships in social networks based on GCNs enables the im
 
 
 # 🎖 Honors and Awards
+- Student Travel Grant of ACM CCS 2024.
 - Tsinghua-Longfor Scholarship for Excellent Students. 2023.
 - Tsinghua-Yangtze River Delta Scholarship for Excellent Students. 2023
 - Tsinghua-Toyota Scholarship for Excellent Students. 2022
