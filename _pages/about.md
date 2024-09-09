@@ -74,8 +74,10 @@ His research focuses on network security and privacy, including website fingerpr
     <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
     <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Functional; 🏅Results Reproduced
     <br>
-        [PDF]
-        <a href="https://zenodo.org/records/13327934">
+        <a href="https://arxiv.org/pdf/2409.04341">
+            <font color="red">[PDF]</font>
+        </a>
+        <a href="https://zenodo.org/records/13383332">
             <font color="red">[Code]</font>
         </a>
     
