@@ -21,8 +21,6 @@ Xinhao Deng is currently a 5th-year Ph.D. candidate at the <a href="https://www.
 Tsinghua University, advised by <a target="_blank" rel="noopener" href="https://sites.google.com/site/qili2012/home">Prof. Qi Li</a>.
 His research focuses on network security and privacy, including website fingerprinting attacks, malicious traffic detection and mitigation, and the application of deep learning to security and privacy.
 
-<font color="red"> I am actively seeking opportunities in the job market. Please contact me if you are interested (email: dengxh23@mails.tsinghua.edu.cn).</font>
-
 # 🔥 News
 - [2024.08] &nbsp;Two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
 - [2024.07] &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
