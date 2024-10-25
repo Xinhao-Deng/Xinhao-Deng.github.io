@@ -128,6 +128,10 @@ His research focuses on network security and privacy, including website fingerpr
     Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>.
     <em>Unsupervised and Adaptive Tor Website Fingerprinting.</em>
     <br> EAI SecureComm, 2023.
+     <br>
+       <a href="https://link.springer.com/chapter/10.1007/978-3-031-64954-7_11">
+            <font color="red">[PDF]</font>
+        </a>
 </li>
 </ol>
 
