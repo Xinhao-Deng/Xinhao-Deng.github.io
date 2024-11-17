@@ -22,11 +22,11 @@ Tsinghua University, advised by <a target="_blank" rel="noopener" href="https://
 His research focuses on network security and privacy, including website fingerprinting attacks, malicious traffic detection and mitigation, and the application of deep learning to security and privacy.
 
 # 🔥 News
+- [2024.11] &nbsp;Our evasion attack detection paper is accepted by KDD 2025 (Research Track)! Congratulations, Li and Chuanpu!
 - [2024.08] &nbsp;Two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
 - [2024.07] &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
 - [2024.06] &nbsp;Our rule caching for programmable switches paper is accepted by IEEE Transactions on Network and Service Management (TNSM)!
 - [2024.05] &nbsp;Our reliable WF attack paper is accepted by ACM CCS 2024!
-- [2024.04] &nbsp;I am selected to be part of the ACM CCS 2024 Artifact Evaluation Committee (AEC).
 - [2023.10] &nbsp;I passed Ph.D. Qualifying Examination and became a Ph.D. Candidate.
 - [2023.08] &nbsp;Our malicious traffic detection paper is accepted by ISOC NDSS 2024! Congratulations, Yuqi!
 
@@ -37,9 +37,9 @@ His research focuses on network security and privacy, including website fingerpr
 ### Preprints
 
 <ol>
-    <li>
-    Tianyu Cui, Yanling Wang, Chuanpu Fu, Yong Xiao, Sijia Li, <b><u>Xinhao Deng</u></b>, Yunpeng Liu, Qinglin Zhang, Ziyi Qiu, Peiyang Li, Zhixing Tan, Junwu Xiong, Xinyu Kong, Zujie Wen, Ke Xu, Qi Li. <em>Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.</em> 
-    <br>
+
+<li>
+    Tianyu Cui, Yanling Wang, Chuanpu Fu, Yong Xiao, Sijia Li, <b><u>Xinhao Deng</u></b>, Yunpeng Liu, Qinglin Zhang, Ziyi Qiu, Peiyang Li, Zhixing Tan, Junwu Xiong, Xinyu Kong, Zujie Wen, Ke Xu, Qi Li. Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems.
     <a href="https://arxiv.org/pdf/2401.05778">
         <font color="red">[PDF]</font>
     </a>
@@ -47,124 +47,116 @@ His research focuses on network security and privacy, including website fingerpr
 
 </ol>
 
-### 2024
+### Publications
+
 <ol>
 
 <li>
-    <b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu.
-    <em>Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.</em>
-    <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
-    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Reusable; 🏅Results Reproduced
-    <br>
-        <a href="https://arxiv.org/pdf/2407.00918">
+    <b>[KDD'25]</b>  Li Gao, Chuanpu Fu, <b><u>Xinhao Deng</u></b>, Ke Xu, Qi Li. Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis. 
+    ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Research Track, 2025.
+</li>
+
+<br>
+<li>
+    <b>[CCS'24]</b> <b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu. Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis. ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. <a href="https://arxiv.org/pdf/2407.00918">
             <font color="red">[PDF]</font>
         </a>
         <a href="https://github.com/Xinhao-Deng/Website-Fingerprinting-Library">
             <font color="red">[Code]</font>
         </a>
-    
+    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Reusable; 🏅Results Reproduced
 </li>
 
-
+<br>
 <li>
-    Xiyuan Zhao&#42;, <b><u>Xinhao Deng</u></b>&#42;, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu. 
-    <em>Towards Fine-Grained Webpage Fingerprinting at Scale.</em> 
-    <br> ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. (<em>CCF-A/TH-CPL-A</em>)
-    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Functional; 🏅Results Reproduced
-    <br>
-        <a href="https://arxiv.org/pdf/2409.04341">
+    <b>[CCS'24]</b> Xiyuan Zhao&#42;, <b><u>Xinhao Deng</u></b>&#42;, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu. 
+    Towards Fine-Grained Webpage Fingerprinting at Scale. 
+    ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024.
+    <a href="https://arxiv.org/pdf/2409.04341">
             <font color="red">[PDF]</font>
         </a>
         <a href="https://zenodo.org/records/13383332">
             <font color="red">[Code]</font>
         </a>
-    
+    <br> Artifact Evaluation: 🏅Available; 🏅Evaluated-Functional; 🏅Results Reproduced
 </li>
 
+<br>
 <li>
-    <b><u>Xinhao Deng</u></b>, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, Menghao Zhang, Yu Zhou, Jianping Wu.
-    <em>Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation.</em> 
-    <br> IEEE Transactions on Network and Service Management (TNSM), 2024.
-    <br> <a href="https://ieeexplore.ieee.org/document/10582912">
+    <b>[TNSM'24]</b> <b><u>Xinhao Deng</u></b>, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, Menghao Zhang, Yu Zhou, Jianping Wu.
+    Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation. 
+    IEEE Transactions on Network and Service Management (TNSM), 2024.
+    <a href="https://ieeexplore.ieee.org/document/10582912">
     <font color="red">[PDF]</font>
     </a>        
 </li>
 
+<br>
 <li>
-    Yuqi Qing&#42;, Qilei Yin&#42;, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
-    <em>Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.</em>
-    <br> Network and Distributed System Security Symposium (NDSS), 2024. (<em>CCF-A/TH-CPL-A</em>)
-    <br>
-        <a href="https://arxiv.org/pdf/2309.04798.pdf">
-            <font color="red">[PDF]</font>
-        </a>
-        <a href="https://github.com/XXnormal/RAPIER">
-            <font color="red">[Code]</font>
-        </a>
+    <b>[NDSS'24]</b> Yuqi Qing&#42;, Qilei Yin&#42;, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.
+    Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.
+    Network and Distributed System Security Symposium (NDSS), 2024. 
+    <a href="https://arxiv.org/pdf/2309.04798.pdf">
+        <font color="red">[PDF]</font>
+    </a>
+    <a href="https://github.com/XXnormal/RAPIER">
+        <font color="red">[Code]</font>
+    </a>
 </li>
 
-</ol>
-
-### 2023
-
-<ol>
+<br>
 <li>
-    <b><u>Xinhao Deng</u></b>, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
-    <em>Robust Multi-tab Website Fingerprinting Attacks in the Wild.</em>
-    <br> IEEE Symposium on Security and Privacy (S&P), 2023. (<em>CCF-A/TH-CPL-A</em>)
-    <br>
-        <a href="http://www.thucsnet.com/wp-content/papers/xinhao_sp2023.pdf">
-            <font color="red">[PDF]</font>
-        </a>
-        <a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
-            <font color="red">[Code]</font>
-        </a>
-        <a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
-            <font color="red">[Dataset]</font>
-        </a>
+    <b>[S&P'23]</b> <b><u>Xinhao Deng</u></b>, Qilei Yin, Zhuotao Liu, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
+    Robust Multi-tab Website Fingerprinting Attacks in the Wild.
+    IEEE Symposium on Security and Privacy (S&P), 2023. 
+    <a href="http://www.thucsnet.com/wp-content/papers/xinhao_sp2023.pdf">
+        <font color="red">[PDF]</font>
+    </a>
+    <a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
+        <font color="red">[Code]</font>
+    </a>
+    <a href="https://github.com/Xinhao-Deng/Multitab-WF-Datasets">
+        <font color="red">[Dataset]</font>
+    </a>
 </li>
 
+<br>
 <li>
-    Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>.
+    <b>[SecureComm'23]</b> Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>.
     <em>Unsupervised and Adaptive Tor Website Fingerprinting.</em>
     <br> EAI SecureComm, 2023.
-     <br>
-       <a href="https://link.springer.com/chapter/10.1007/978-3-031-64954-7_11">
-            <font color="red">[PDF]</font>
-        </a>
-</li>
-</ol>
-
-### 2022 and earlier
-
-<ol>
-<li>
-    Qi Li, <b><u>Xinhao Deng</u></b>, Zhuotao Liu, Yuan Yang, Xiaoyue Zou, Mingwei Xu, Jianping Wu.
-    <em> Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.</em>
-    <br> IEEE Transactions on Information Forensics and Security (TIFS), 2022. (<em>CCF-A/TH-CPL-A</em>)
-    <br>
-       <a href="https://ieeexplore.ieee.org/document/9680702">
-            <font color="red">[PDF]</font>
-        </a>
-</li>
-
-<li>
-    Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, <b><u>Xinhao Deng</u></b>, Qian Wang, Yong Jiang.
-    <em> Practical Differentially Private Online Advertising.</em>
-    <br> Computers & Security, 2022.
-    <br>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
-            <font color="red">[PDF]</font>
-        </a>
-</li>
-
-<li>
-    Shu Yang, Laizhong Cui, <b><u>Xinhao Deng</u></b>, Qi Li, Yulei Wu, Mingwei Xu, Jianipng Wu.
-    <em> FISE: A Forwarding Table Structure for Enterprise Networks.</em>
-    <br> IEEE Transactions on Network and Service Management (TNSM), 2019.
-    <br>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-64954-7_11">
         <font color="red">[PDF]</font>
+    </a>
+</li>
+
+<br>
+<li>
+    <b>[TIFS'22]</b> Qi Li, <b><u>Xinhao Deng</u></b>, Zhuotao Liu, Yuan Yang, Xiaoyue Zou, Mingwei Xu, Jianping Wu.
+    Dynamic Network Function Enforcement via Joint Flow and Function Scheduling.
+    IEEE Transactions on Information Forensics and Security (TIFS), 2022.
+    <a href="https://ieeexplore.ieee.org/document/9680702">
+        <font color="red">[PDF]</font>
+    </a>
+</li>
+
+<br>
+<li>
+    <b>[Computers & Security'22]</b> Jie Sun, Lingchen Zhao, Zhuotao Liu, Qi Li, <b><u>Xinhao Deng</u></b>, Qian Wang, Yong Jiang.
+    Practical Differentially Private Online Advertising.
+    Computers & Security, 2022.
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
+        <font color="red">[PDF]</font>
+    </a>
+</li>
+
+<br>
+<li>
+    <b>[TNSM'19]</b> Shu Yang, Laizhong Cui, <b><u>Xinhao Deng</u></b>, Qi Li, Yulei Wu, Mingwei Xu, Jianipng Wu.
+    FISE: A Forwarding Table Structure for Enterprise Networks.
+    IEEE Transactions on Network and Service Management (TNSM), 2019.
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482100328X">
+    <font color="red">[PDF]</font>
     </a>
 </li>
 
@@ -172,21 +164,26 @@ His research focuses on network security and privacy, including website fingerpr
 
 # 💻 Internship Experience
 ## Bytedance 
-<em> Research Intern, Summer 2022 </em>
+<em> Research Intern, July 2021 - March 2022. </em>
 
-Utilizing Graph Contrastive Learning to detect malicious users and abnormal behaviors on social platforms such as TikTok and Watermelon Video.
+<ul>
+<li> Research on detecting malicious crowdsourcing behaviors on large-scale social platforms.</li>
+<li> Selected for ByteDance Soaring Star Talent Program. </li>
+</ul>
 
 ## Microsoft Research Asia
-<em> Research Intern, Summer 2020 </em>
+<em> Research Intern, October 2020 - March 2021. </em>
 
-Predicting potential friendships in social networks based on GCNs enables the implementation of an accurate friend recommendation system.
+<ul>
+<li> Research on personalized friend recommendation on large-scale social platforms.</li>
+<li> Awarded the MSRA Excellent Intern Award. </li>
+</ul>
 
 
 # 🎖 Honors and Awards
 - Student Travel Grant of ACM CCS 2024.
-- Tsinghua-Longfor Scholarship for Excellent Students. 2023.
-- Tsinghua-Yangtze River Delta Scholarship for Excellent Students. 2023
-- Tsinghua-Toyota Scholarship for Excellent Students. 2022
+- 1st-class Scholarship of Tsinghua University. 2024 & 2022.
+- Tsinghua-Longfor Scholarship. 2023.
 - China National Scholarship. 2019.
 - Gold Medal, ACM International Collegiate Programming Contest (ACM-ICPC) Asia Regional. 2018.
 
