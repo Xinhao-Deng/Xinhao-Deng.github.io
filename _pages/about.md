@@ -164,7 +164,7 @@ His research focuses on network security and privacy, including website fingerpr
 
 # 💻 Internship Experience
 ## Bytedance 
-<em> Research Intern, July 2021 - March 2022. </em>
+<em> Research Intern </em>
 
 <ul>
 <li> Research on detecting malicious crowdsourcing behaviors on large-scale social platforms.</li>
@@ -172,7 +172,7 @@ His research focuses on network security and privacy, including website fingerpr
 </ul>
 
 ## Microsoft Research Asia
-<em> Research Intern, October 2020 - March 2021. </em>
+<em> Research Intern </em>
 
 <ul>
 <li> Research on personalized friend recommendation on large-scale social platforms.</li>
