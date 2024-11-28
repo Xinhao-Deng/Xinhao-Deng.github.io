@@ -22,6 +22,7 @@ Tsinghua University, advised by <a target="_blank" rel="noopener" href="https://
 His research focuses on network security and privacy, including website fingerprinting attacks, malicious traffic detection and mitigation, and the application of deep learning to security and privacy.
 
 # 🔥 News
+- [2024.11] &nbsp;I am selected to be part of the USENIX Security 2025 Artifact Evaluation Committee (AEC).
 - [2024.11] &nbsp;Our evasion attack detection paper is accepted by KDD 2025 (Research Track)! Congratulations, Li and Chuanpu!
 - [2024.08] &nbsp;Two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
 - [2024.07] &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
@@ -190,5 +191,5 @@ His research focuses on network security and privacy, including website fingerpr
 # 📑 Academic Services
 - **Conference Reviewer**: SecureComm'23, ACSAC'22, ACSAC'20.
 - **Journal Reviewer**: TIFS, TNSM.
-- **Artifact Evaluation Committee**: CCS'24, ACSAC'22.
+- **Artifact Evaluation Committee**: Security'25, CCS'24, ACSAC'22.
 - **External Reviewer**: S&P'25, CCS'24, NDSS'24, Security'23, S&P'22, WWW'22.
