@@ -192,4 +192,4 @@ His research focuses on network security and privacy, including website fingerpr
 - **Conference Reviewer**: SecureComm'23, ACSAC'22, ACSAC'20.
 - **Journal Reviewer**: TIFS, TNSM.
 - **Artifact Evaluation Committee**: Security'25, CCS'24, ACSAC'22.
-- **External Reviewer**: S&P'25, CCS'24, NDSS'24, Security'23, S&P'22, WWW'22.
+- **External Reviewer**: S&P'25, CCS'24, NDSS'24, Security'23, WWW'23.
