@@ -21,8 +21,12 @@ Xinhao Deng is currently a 5th-year Ph.D. candidate at the <a href="https://www.
 Tsinghua University, advised by <a target="_blank" rel="noopener" href="https://sites.google.com/site/qili2012/home">Prof. Qi Li</a>.
 His research focuses on network security and privacy, including website fingerprinting attacks, malicious traffic detection and mitigation, and the application of deep learning to security and privacy.
 
+
+<font color="red">This year, I am actively seeking opportunities in the job market.</font>
+
 # 🔥 News
-- [2024.11] &nbsp;I am selected to be part of the USENIX Security 2025 Artifact Evaluation Committee (AEC).
+- [2025.01] &nbsp;Our HTTPS traffic analysis paper is accepted by WWW 2025! Congratulations, Yifei!
+- [2024.12] &nbsp;I am selected to be part of the USENIX Security 2025 Artifact Evaluation Committee (AEC).
 - [2024.11] &nbsp;Our evasion attack detection paper is accepted by KDD 2025 (Research Track)! Congratulations, Li and Chuanpu!
 - [2024.08] &nbsp;Two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
 - [2024.07] &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
@@ -53,11 +57,17 @@ His research focuses on network security and privacy, including website fingerpr
 <ol>
 
 <li>
+    <b>[WWW'25]</b> Yifei Cheng, Yujia Zhu, Baiyang Li, Peishuai Sun, Yong Ding, <b><u>Xinhao Deng</u></b>, Qingyun Liu. HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism. 
+    In Proceedings of the ACM Web Conference 2025 (WWW '25).
+</li>
+<br>
+
+<li>
     <b>[KDD'25]</b>  Li Gao, Chuanpu Fu, <b><u>Xinhao Deng</u></b>, Ke Xu, Qi Li. Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis. 
     ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Research Track, 2025.
 </li>
-
 <br>
+
 <li>
     <b>[CCS'24]</b> <b><u>Xinhao Deng</u></b>, Qi Li, Ke Xu. Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis. ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024. <a href="https://arxiv.org/pdf/2407.00918">
             <font color="red">[PDF]</font>
