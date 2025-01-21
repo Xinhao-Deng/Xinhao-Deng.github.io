@@ -25,7 +25,7 @@ His research focuses on network security and privacy, including website fingerpr
 <font color="red">This year, I am actively seeking opportunities in the job market.</font>
 
 # 🔥 News
-- [2025.01] &nbsp;Our HTTPS traffic analysis paper is accepted by WWW 2025! Congratulations, Yifei!
+- [2025.01] &nbsp;Our HTTPS traffic analysis paper is accepted by WWW 2025 (Oral)! Congratulations, Yifei!
 - [2024.11] &nbsp;Our evasion attack detection paper is accepted by KDD 2025 (Research Track)! Congratulations, Li and Chuanpu!
 - [2024.08] &nbsp;Two papers are awarded all three badges from ACM CCS 2024 artifact evaluation committee.
 - [2024.07] &nbsp;Our fine-grained webpage fingerprinting paper is accepted by ACM CCS 2024! Congratulations, Xiyuan!
