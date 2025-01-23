@@ -53,7 +53,7 @@ His research focuses on network security and privacy, including website fingerpr
 Towards Robust Multi-tab Website Fingerprinting.
 <a href="https://arxiv.org/abs/2501.12622">
         <font color="red">[PDF]</font>
-    </a>
+</a>
 </li>
 
 </ol>
