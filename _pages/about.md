@@ -51,7 +51,7 @@ His research focuses on network security and privacy, including website fingerpr
 <li> 
 <b><u>Xinhao Deng</u></b>, Xiyuan Zhao, Qilei Yin, Zhuotao Liu, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.
 Towards Robust Multi-tab Website Fingerprinting.
-<a href="https://arxiv.org/abs/2501.12622">
+<a href="https://arxiv.org/pdf/2501.12622">
         <font color="red">[PDF]</font>
 </a>
 </li>
