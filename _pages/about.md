@@ -140,8 +140,8 @@ Towards Robust Multi-tab Website Fingerprinting.
 <br>
 <li>
     <b>[SecureComm'23]</b> Guoqiang Zhang, Jiahao Cao, Mingwei Xu, <b><u>Xinhao Deng</u></b>.
-    <em>Unsupervised and Adaptive Tor Website Fingerprinting.</em>
-    <br> EAI SecureComm, 2023.
+    Unsupervised and Adaptive Tor Website Fingerprinting.
+    EAI SecureComm, 2023.
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-64954-7_11">
         <font color="red">[PDF]</font>
     </a>
