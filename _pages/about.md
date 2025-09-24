@@ -106,12 +106,12 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
+- Outstanding Doctoral Dissertation of Tsinghua University 2025. (清华大学优秀博士学位论文)
 - Science and Technology Award, Chinese Institute of Electronics. 2024.（中国电子学会科技进步一等奖）
 - Student Travel Grant of ACM CCS 2024.
 - 1st-class Scholarship of Tsinghua University. 2024 & 2022.（清华大学一等奖学金）
 - Tsinghua-Longfor Scholarship. 2023.（清华-龙湖奖学金）
 - China National Scholarship. 2019.（国家奖学金）
-
 
 # 📑 Academic Services
 - **Conference Reviewer**: SecureComm'23, ACSAC'22, ACSAC'20.
