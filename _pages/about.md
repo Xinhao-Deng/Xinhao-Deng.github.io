@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am currently an Algorithm Expert at Ant Group and a Joint Postdoctoral Researcher with Tsinghua University and Ant Group. I received my Ph.D. in June 2025 from the Institute for Network Sciences and Cyberspace, Tsinghua University, under the supervision of Prof. [Qi Li](https://sites.google.com/site/qili2012/home), and was fortunate to also receive mentorship from Profs. [Jianping Wu](https://www.tsinghua.edu.cn/info/1166/93896.htm), [Ke Xu](https://www.cs.tsinghua.edu.cn/info/1126/3581.htm), and [Mingwei Xu](https://www.insc.tsinghua.edu.cn/info/1157/2465.htm).
+👋 I am currently an **Algorithm Expert at Ant Group** and a **Joint Postdoctoral Researcher with Tsinghua University and Ant Group**. I received my Ph.D. in June 2025 from the Institute for Network Sciences and Cyberspace, Tsinghua University, under the supervision of Prof. [Qi Li](https://sites.google.com/site/qili2012/home), and was fortunate to also receive mentorship from Profs. [Jianping Wu](https://www.tsinghua.edu.cn/info/1166/93896.htm), [Ke Xu](https://www.cs.tsinghua.edu.cn/info/1126/3581.htm), and [Mingwei Xu](https://www.insc.tsinghua.edu.cn/info/1157/2465.htm).
 
 ✨ My research interests lie in network traffic analysis (e.g., website fingerprinting and network attack detection) and agent security (e.g., privacy preservation and security enhancement). I have published papers in leading conferences and journals, including IEEE S&P, ACM CCS, NDSS, KDD, WWW, and IEEE TIFS.
 
 📮 I actively collaborate with researchers across institutions. For potential collaborations, please feel free to contact me at **[xinhaodeng.thu@gmail.com](mailto:xinhaodeng.thu@gmail.com)**.
 
 # 📝 Papers  
-(*Equal Contribution*)
 
 ## 📌 2025
 
@@ -61,7 +60,7 @@ redirect_from:
   [[PDF](https://arxiv.org/pdf/2407.00918)] | [[Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)]  
   *Artifact Evaluation:* 🏅Available · 🏅Reusable · 🏅Reproduced
 
-- **[CCS’24]** Xiyuan Zhao\*, <b><u>Xinhao Deng</u></b>\*, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu.  
+- **[CCS’24]** Xiyuan Zhao\*, <b><u>Xinhao Deng</u></b>\* (Equal Contribution), Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu.  
   *Towards Fine-Grained Webpage Fingerprinting at Scale.*  
   *ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024.*  
   [[PDF](https://arxiv.org/pdf/2409.04341)] | [[Code](https://zenodo.org/records/13383332)]  
@@ -72,7 +71,7 @@ redirect_from:
   *IEEE Transactions on Network and Service Management (TNSM), 2024.*  
   [[PDF](https://ieeexplore.ieee.org/document/10582912)]
 
-- **[NDSS’24]** Yuqi Qing\*, Qilei Yin\*, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.  
+- **[NDSS’24]** Yuqi Qing, Qilei Yin, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.  
   *Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.*  
   *Network and Distributed System Security Symposium (NDSS), 2024.*  
   [[PDF](https://arxiv.org/pdf/2309.04798.pdf)] | [[Code](https://github.com/XXnormal/RAPIER)]
