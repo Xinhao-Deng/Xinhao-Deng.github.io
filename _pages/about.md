@@ -27,6 +27,10 @@ redirect_from:
 
 ## 📌 2025
 
+- **[Preprint]** Yixiang Zhang, <b><u>Xinhao Deng</u></b>, Zhongyi Gu, Yihao Chen, Ke Xu, Qi Li, Jianping Wu.  
+  *Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions.*  
+  [[PDF](https://arxiv.org/pdf/2510.07176)]
+
 - **[Preprint]** <b><u>Xinhao Deng</u></b>, Xiyuan Zhao, Qilei Yin, Zhuotao Liu, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.  
   *Towards Robust Multi-tab Website Fingerprinting.*  
   [[PDF](https://arxiv.org/pdf/2501.12622)]
