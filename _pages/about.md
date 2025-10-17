@@ -31,6 +31,10 @@ redirect_from:
   *Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions.*  
   [[PDF](https://arxiv.org/pdf/2510.07176)]
 
+- **[Preprint]** <b><u>Xinhao Deng</u></b>, Jingyou Chen, Linxiao Yu, Yixiang Zhang, Zhongyi Gu, Changhao Qiu, Xiyuan Zhao, Ke Xu, Qi Li.  
+  *Beyond a Single Perspective: Towards a Realistic Evaluation of Website Fingerprinting Attacks.*  
+  [[PDF](https://arxiv.org/pdf/2510.14283)]
+
 - **[Preprint]** <b><u>Xinhao Deng</u></b>, Xiyuan Zhao, Qilei Yin, Zhuotao Liu, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.  
   *Towards Robust Multi-tab Website Fingerprinting.*  
   [[PDF](https://arxiv.org/pdf/2501.12622)]
