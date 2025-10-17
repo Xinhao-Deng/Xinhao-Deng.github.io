@@ -19,7 +19,7 @@ redirect_from:
 
 👋 I am currently an **Algorithm Expert at Ant Group** and a **Joint Postdoctoral Researcher with Tsinghua University and Ant Group**. I received my Ph.D. in June 2025 from the Institute for Network Sciences and Cyberspace, Tsinghua University, under the supervision of Prof. [Qi Li](https://sites.google.com/site/qili2012/home), and was fortunate to also receive mentorship from Profs. [Jianping Wu](https://www.tsinghua.edu.cn/info/1166/93896.htm), [Ke Xu](https://www.cs.tsinghua.edu.cn/info/1126/3581.htm), and [Mingwei Xu](https://www.insc.tsinghua.edu.cn/info/1157/2465.htm).
 
-✨ My research interests lie in network traffic analysis (e.g., website fingerprinting and network attack detection) and agent security (e.g., privacy preservation and security enhancement). I have published papers in leading conferences and journals, including IEEE S&P, ACM CCS, NDSS, KDD, WWW, and IEEE TIFS.
+✨ My research interests lie in LLM/Agent security (e.g., privacy preservation and security enhancement) and network traffic analysis (e.g., website fingerprinting and network attack detection). I have published papers in leading conferences and journals, including S&P, CCS, NDSS, KDD, WWW, and TIFS.
 
 📮 I actively collaborate with researchers across institutions. For potential collaborations, please feel free to contact me at **[xinhaodeng.thu@gmail.com](mailto:xinhaodeng.thu@gmail.com)**.
 
