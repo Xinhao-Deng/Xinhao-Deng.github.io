@@ -21,7 +21,7 @@ redirect_from:
 
 ✨ My research interests lie in LLM/Agent security (e.g., privacy preservation and security enhancement) and network traffic analysis (e.g., website fingerprinting and network attack detection). I have published papers in leading conferences and journals, including S&P, CCS, NDSS, KDD, WWW, and TIFS.
 
-📮 I actively collaborate with researchers across institutions. For potential collaborations, please feel free to contact me at **[xinhaodeng.thu@gmail.com](mailto:xinhaodeng.thu@gmail.com)**.
+📮 I actively collaborate with researchers across institutions. For potential collaborations, please feel free to contact me at **[dengxinhao@tsinghua.edu.cn](mailto:dengxinhao@tsinghua.edu.cn)**.
 
 # 📝 Papers  
 
