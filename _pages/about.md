@@ -35,6 +35,10 @@ redirect_from:
   *Towards Robust Multi-tab Website Fingerprinting.*  
   [[PDF](https://arxiv.org/pdf/2501.12622)]
 
+- **[INFOCOM'26]** Yifei Cheng, Yujia Zhu, Baiyang Li, <b><u>Xinhao Deng</u></b>, Yitong Cai, Yaochen Ren, Qingyun Liu.  
+  *STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting.*  
+  *IEEE INFOCOM, 2026*
+
 - **[TST'25]** <b><u>Xinhao Deng</u></b>, Jingyou Chen, Linxiao Yu, Yixiang Zhang, Zhongyi Gu, Changhao Qiu, Xiyuan Zhao, Ke Xu, Qi Li.  
   *Beyond a Single Perspective: Towards a Realistic Evaluation of Website Fingerprinting Attacks.*  
   *Tsinghua Science and Technology (TST), 2025.*  
