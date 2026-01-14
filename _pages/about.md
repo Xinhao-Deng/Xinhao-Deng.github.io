@@ -25,6 +25,20 @@ redirect_from:
 
 # 📝 Papers  
 
+## 📌 2026
+
+- **[WWW’26]** Xiyuan Zhao, <b><u>Xinhao Deng</u></b>, Tianyu Cui, Yixiang Zhang, Ke Xu, Qi Li.  
+  *Robust LLM-Based Website Fingerprinting under Dynamic Real-World Conditions.*  
+  *ACM Web Conference (WWW), 2026.*
+
+- **[INFOCOM'26]** Yifei Cheng, Yujia Zhu, Baiyang Li, <b><u>Xinhao Deng</u></b>, Yitong Cai, Yaochen Ren, Qingyun Liu.  
+  *STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting.*  
+  *IEEE INFOCOM, 2026*
+
+- **[NDSS’26]** <b><u>Xinhao Deng</u></b>, Yixiang Zhang, Qi Li, Zhuotao Liu, Yabo Wang, Ke Xu.  
+  *Enhancing Website Fingerprinting Attacks against Traffic Drift.*  
+  *Network and Distributed System Security Symposium (NDSS), 2026.*
+
 ## 📌 2025
 
 - **[Preprint]** Yixiang Zhang, <b><u>Xinhao Deng</u></b>, Zhongyi Gu, Yihao Chen, Ke Xu, Qi Li, Jianping Wu.  
@@ -35,18 +49,10 @@ redirect_from:
   *Towards Robust Multi-tab Website Fingerprinting.*  
   [[PDF](https://arxiv.org/pdf/2501.12622)]
 
-- **[INFOCOM'26]** Yifei Cheng, Yujia Zhu, Baiyang Li, <b><u>Xinhao Deng</u></b>, Yitong Cai, Yaochen Ren, Qingyun Liu.  
-  *STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting.*  
-  *IEEE INFOCOM, 2026*
-
 - **[TST'25]** <b><u>Xinhao Deng</u></b>, Jingyou Chen, Linxiao Yu, Yixiang Zhang, Zhongyi Gu, Changhao Qiu, Xiyuan Zhao, Ke Xu, Qi Li.  
   *Beyond a Single Perspective: Towards a Realistic Evaluation of Website Fingerprinting Attacks.*  
   *Tsinghua Science and Technology (TST), 2025.*  
   [[PDF](https://arxiv.org/pdf/2510.14283)]
-
-- **[NDSS’26]** <b><u>Xinhao Deng</u></b>, Yixiang Zhang, Qi Li, Zhuotao Liu, Yabo Wang, Ke Xu.  
-  *Enhancing Website Fingerprinting Attacks against Traffic Drift.*  
-  *Network and Distributed System Security Symposium (NDSS), 2026.*
 
 - **[CCS’25]** Yuqi Qing, Qilei Yin, <b><u>Xinhao Deng</u></b>, Xiaoli Zhang, Peiyang Li, Zhuotao Liu, Kun Sun, Ke Xu, Qi Li.  
   *Training Robust Classifiers for Classifying Encrypted Traffic under Dynamic Network Conditions.*  
