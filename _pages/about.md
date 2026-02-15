@@ -27,6 +27,10 @@ redirect_from:
 
 ## 📌 2026
 
+- **[ToN'26]** <b><u>Xinhao Deng</u></b>, Xiyuan Zhao, Qilei Yin, Zhuotao Liu, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.  
+  *Towards Robust Multi-tab Website Fingerprinting.*  
+  *IEEE/ACM Transactions on Networking (ToN), 2026.*  
+
 - **[WWW’26]** Xiyuan Zhao, <b><u>Xinhao Deng</u></b>, Tianyu Cui, Yixiang Zhang, Ke Xu, Qi Li.  
   *Robust LLM-Based Website Fingerprinting under Dynamic Real-World Conditions.*  
   *ACM Web Conference (WWW), 2026.*
@@ -45,9 +49,6 @@ redirect_from:
   *Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions.*  
   [[PDF](https://arxiv.org/pdf/2510.07176)]
 
-- **[Preprint]** <b><u>Xinhao Deng</u></b>, Xiyuan Zhao, Qilei Yin, Zhuotao Liu, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.  
-  *Towards Robust Multi-tab Website Fingerprinting.*  
-  [[PDF](https://arxiv.org/pdf/2501.12622)]
 
 - **[TST'25]** <b><u>Xinhao Deng</u></b>, Jingyou Chen, Linxiao Yu, Yixiang Zhang, Zhongyi Gu, Changhao Qiu, Xiyuan Zhao, Ke Xu, Qi Li.  
   *Beyond a Single Perspective: Towards a Realistic Evaluation of Website Fingerprinting Attacks.*  
