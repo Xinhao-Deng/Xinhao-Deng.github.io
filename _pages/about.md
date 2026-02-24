@@ -27,6 +27,10 @@ redirect_from:
 
 ## 📌 2026
 
+- **[Preprint]** <b><u>Xinhao Deng</u></b>, Jiaqing Wu, Miao Chen, Yue Xiao, Ke Xu, Qi Li.  
+  *Automating Agent Hijacking via Structural Template Injection.*  
+  [[PDF](https://arxiv.org/pdf/2602.16958)]
+
 - **[ToN'26]** <b><u>Xinhao Deng</u></b>, Xiyuan Zhao, Qilei Yin, Zhuotao Liu, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu.  
   *Towards Robust Multi-tab Website Fingerprinting.*  
   *IEEE/ACM Transactions on Networking (ToN), 2026.*  
