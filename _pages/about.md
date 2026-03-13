@@ -27,6 +27,10 @@ redirect_from:
 
 ## 📌 2026
 
+- **[Preprint]** <b><u>Xinhao Deng</u></b>, Yixiang Zhang, Jiaqing Wu, Jiaqi Bai, Sibo Yi, Zhuoheng Zou, Yue Xiao, Rennai Qiu, Jianan Ma, Jialuo Chen, Xiaohu Du, Xiaofang Yang, Shiwen Cui, Changhua Meng, Weiqiang Wang, Jiaxing Song, Ke Xu, Qi Li.  
+  *Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats.*  
+  [[PDF](https://arxiv.org/pdf/2603.11619)]
+
 - **[Preprint]** <b><u>Xinhao Deng</u></b>, Jiaqing Wu, Miao Chen, Yue Xiao, Ke Xu, Qi Li.  
   *Automating Agent Hijacking via Structural Template Injection.*  
   [[PDF](https://arxiv.org/pdf/2602.16958)]
