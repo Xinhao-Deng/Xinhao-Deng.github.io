@@ -334,21 +334,15 @@ article.page {
     font-family: "Inter", sans-serif;
 }
 .xd-bio-body {
-    display: flex;
-    align-items: flex-start;
-    gap: 2.5em;
-}
-.xd-bio-text {
-    flex: 1;
-    min-width: 0;
+    overflow: hidden;
 }
 .xd-avatar {
-    flex-shrink: 0;
+    float: right;
     width: 160px;
     height: 160px;
     border-radius: 50%;
     object-fit: cover;
-    margin: 0;
+    margin: 0 0 1.5em 2.8em;
     box-shadow: 0 4px 16px rgba(0,0,0,0.14);
     border: 3px solid #fff;
     outline: 1px solid #e0e0e0;
@@ -585,9 +579,7 @@ hr.year-divider { border: none; border-top: 1px solid #ebebeb; margin: 0.5em 0 0
 /* ── Mobile responsive ── */
 @media (max-width: 620px) {
     #main { padding: 70px 16px 60px !important; }
-    .xd-bio-body { flex-direction: column; align-items: center; }
-    .xd-avatar { width: 110px; height: 110px; order: -1; }
-    .xd-bio-text { order: 1; }
+    .xd-avatar { width: 100px; height: 100px; margin-left: 1em; }
     .xd-bio h2 { font-size: 1.45em; }
     .xd-nav-logo { font-size: .82em; }
     .xd-nav-btn { padding: 5px 8px; font-size: .78em; letter-spacing: 0.01em; }
