@@ -107,3 +107,480 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ── Venue badge color system ── */
+.venue-badge {
+    display: inline-block;
+    padding: 0.1em 0.55em;
+    border-radius: 3px;
+    font-size: .82em;
+    font-weight: bold;
+    color: #fff;
+    vertical-align: middle;
+    margin-right: 0.3em;
+    letter-spacing: 0.02em;
+}
+.venue-top      { background: #2471a3; }   /* S&P, CCS, NDSS, KDD, WWW, INFOCOM */
+.venue-journal  { background: #2471a3; }   /* ToN, TIFS, TNSM, TST */
+.venue-workshop { background: #2471a3; }   /* SecureComm etc. */
+.venue-preprint { background: #c0392b; }   /* Preprint / arXiv */
+
+/* ── Paper list ── */
+.paper-entry {
+    padding: 0.65em 0;
+    line-height: 1.65;
+}
+.paper-title { font-style: italic; }
+.paper-links a {
+    display: inline-block;
+    margin-right: 0.35em;
+    margin-top: 0.3em;
+    padding: 0.1em 0.6em;
+    font-size: .82em;
+    font-weight: 600;
+    border-radius: 3px;
+    border: 1px solid currentColor;
+    text-decoration: none !important;
+    transition: background .15s, color .15s;
+}
+.paper-links a:hover { opacity: 0.78; }
+.paper-links .link-pdf     { color: #c0392b; border-color: #c0392b; }
+.paper-links .link-pdf:hover { background: #c0392b; color: #fff; }
+.paper-links .link-code    { color: #1a5276; border-color: #1a5276; }
+.paper-links .link-code:hover { background: #1a5276; color: #fff; }
+.paper-links .link-dataset { color: #1e8449; border-color: #1e8449; }
+.paper-links .link-dataset:hover { background: #1e8449; color: #fff; }
+.paper-ae {
+    font-size: .85em;
+    color: #555;
+}
+
+/* ── Open source project cards ── */
+.project-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.project-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9em;
+    padding: 0.75em 0;
+}
+.project-icon { font-size: 1.4em; line-height: 1.3; flex-shrink: 0; }
+.project-info .project-name { font-weight: bold; }
+.project-info .project-desc { color: #555; font-size: .93em; }
+
+/* ── Academic services table ── */
+.service-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5em 0;
+}
+.service-table td {
+    padding: 0.35em 0.7em 0.35em 0;
+    vertical-align: top;
+    border: none;
+}
+.service-table td:first-child {
+    white-space: nowrap;
+    font-weight: bold;
+    color: #444;
+    padding-right: 1.2em;
+    width: 1%;
+}
+
+/* ── Year divider in Papers section ── */
+hr.year-divider {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 0.8em 0 0 0;
+}
+
+/* ── Awards list ── */
+.awards-list {
+    list-style: none;
+    padding: 0;
+}
+.awards-list li {
+    padding: 0.3em 0;
+}
+.award-year {
+    display: inline-block;
+    min-width: 3.2em;
+    font-weight: bold;
+    color: #c0392b;
+    margin-right: 0.4em;
+}
+
+/* ════════════════════════════════════════
+   Redesign — clean academic style
+   ════════════════════════════════════════ */
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Offset anchor targets so fixed nav doesn't cover them */
+#about, #projects, #publications, #awards, #services {
+    scroll-margin-top: 62px;
+}
+
+/* Global font & base */
+body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #222;
+    line-height: 1.72;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+a { color: #1a6fa8; }
+a:hover { color: #145a8a; text-decoration: underline; }
+
+/* Code / monospace */
+code, pre, kbd {
+    font-family: "JetBrains Mono", "Fira Code", "Menlo", monospace;
+    font-size: .88em;
+}
+
+/* Single-column centered layout */
+#main {
+    max-width: 960px !important;
+    margin: 0 auto !important;
+    padding: 76px 28px 80px !important;
+    float: none !important;
+    width: 100% !important;
+}
+.page,
+article.page {
+    float: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+/* Hide original masthead & sidebar */
+.masthead { display: none !important; }
+.sidebar  { display: none !important; }
+
+/* ── Top navigation bar ── */
+.xd-nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 500;
+    background: rgba(12, 48, 115, 0.97);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    height: 52px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.06), 0 2px 12px rgba(0,0,0,0.22);
+}
+.xd-nav-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.xd-nav-logo {
+    color: rgba(255,255,255,0.95);
+    font-size: .95em;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 0.01em;
+    text-decoration: none !important;
+    white-space: nowrap;
+}
+.xd-nav-logo:hover { color: #fff; text-decoration: none !important; }
+.xd-nav-links { display: flex; gap: 2px; }
+.xd-nav-btn {
+    color: rgba(255,255,255,0.72);
+    font-size: .84em;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    padding: 6px 13px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    letter-spacing: 0.03em;
+    transition: background .15s, color .12s;
+}
+.xd-nav-btn:hover {
+    background: rgba(255,255,255,0.13);
+    color: #fff;
+    text-decoration: none !important;
+}
+.xd-nav-btn.active {
+    background: rgba(255,255,255,0.16);
+    color: #fff;
+}
+
+/* ── Bio / About block ── */
+.xd-bio {
+    padding-bottom: 0.5em;
+}
+.xd-bio h2 {
+    font-size: 1.9em;
+    font-weight: 700;
+    margin: 0 0 0.6em;
+    color: #111;
+    border-bottom: none !important;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    font-family: "Inter", sans-serif;
+}
+.xd-bio-body {
+    overflow: hidden;
+}
+.xd-avatar {
+    float: right;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 0 1.5em 2.8em;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.14);
+    border: 3px solid #fff;
+    outline: 1px solid #e0e0e0;
+}
+.xd-position {
+    font-size: .97em;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 0.9em;
+    line-height: 1.6;
+    padding-left: 12px;
+    border-left: 3px solid rgba(25,137,191,0.35);
+}
+.xd-bio p {
+    line-height: 1.78;
+    margin-bottom: 0.8em;
+    color: #333;
+    font-size: .96em;
+    font-weight: 400;
+}
+.xd-contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em 0;
+    margin-top: 1em;
+}
+.xd-contact-row a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    color: #fff;
+    font-size: .82em;
+    font-weight: 500;
+    background: #1a6fa8;
+    padding: 4px 12px;
+    border-radius: 20px;
+    text-decoration: none !important;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    transition: background .15s;
+}
+.xd-contact-row a:hover { background: #145a8a; color: #fff; }
+
+/* ── Callout / highlight block ── */
+.xd-callout {
+    background: linear-gradient(135deg, rgba(25,137,191,0.07), rgba(25,137,191,0.03));
+    border: 1px solid rgba(25,137,191,0.2);
+    border-left: 4px solid #1989BF;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9em 1.1em;
+    margin: 1em 0 0.5em;
+}
+.xd-callout p {
+    margin: 0;
+    color: #2c3e50;
+    font-size: .95em;
+    line-height: 1.7;
+}
+
+/* ── Section header ── */
+.xd-section-header {
+    margin: 3em 0 1.3em;
+    padding-bottom: 0.45em;
+    border-bottom: 1.5px solid #e8e8e8;
+}
+.xd-section-header h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin: 0;
+    color: #111;
+    padding-left: 11px;
+    border-left: 3.5px solid #1989BF;
+    border-bottom: none !important;
+    line-height: 1.3;
+    letter-spacing: 0.01em;
+    font-family: "Inter", sans-serif;
+}
+
+/* ── Year label in publications ── */
+.xd-year-label {
+    font-size: .95em;
+    font-weight: 600;
+    color: #444;
+    margin: 2em 0 0.8em;
+    padding-left: 9px;
+    border-left: 3px solid #1989BF;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-family: "Inter", sans-serif;
+}
+
+/* ── Paper entries ── */
+.paper-entry {
+    padding: 0.65em 0;
+    line-height: 1.7;
+    font-size: .94em;
+}
+.paper-title {
+    font-style: italic;
+    color: #1a1a1a;
+    font-weight: 500;
+}
+.paper-links a {
+    display: inline-block;
+    margin-right: 0.3em;
+    margin-top: 0.25em;
+    padding: 0.08em 0.65em;
+    font-size: .78em;
+    font-weight: 600;
+    border-radius: 3px;
+    border: 1.5px solid currentColor;
+    text-decoration: none !important;
+    transition: background .15s, color .15s;
+    letter-spacing: 0.03em;
+}
+.paper-links .link-pdf     { color: #b03a2e; border-color: #b03a2e; }
+.paper-links .link-pdf:hover { background: #b03a2e; color: #fff; }
+.paper-links .link-code    { color: #1a5276; border-color: #1a5276; }
+.paper-links .link-code:hover { background: #1a5276; color: #fff; }
+.paper-links .link-dataset { color: #1e8449; border-color: #1e8449; }
+.paper-links .link-dataset:hover { background: #1e8449; color: #fff; }
+.paper-ae { font-size: .82em; color: #666; }
+
+/* ── Venue badges ── */
+.venue-badge {
+    display: inline-block;
+    padding: 0.08em 0.52em;
+    border-radius: 3px;
+    font-size: .74em;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    color: #fff;
+    vertical-align: middle;
+    margin-right: 0.35em;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+.venue-top      { background: #1a6fa8; }
+.venue-journal  { background: #1a6fa8; }
+.venue-workshop { background: #1a6fa8; }
+.venue-preprint { background: #b03a2e; }
+
+/* ── Project cards ── */
+.project-list { list-style: none; padding: 0; margin: 0; }
+.project-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1em;
+    padding: 0.7em 0;
+    font-size: .96em;
+}
+.project-icon { font-size: 1.3em; line-height: 1.4; flex-shrink: 0; }
+.project-info .project-name { font-weight: 600; color: #1a6fa8; }
+.project-info .project-name a { color: #1a6fa8; text-decoration: none; }
+.project-info .project-name a:hover { text-decoration: underline; }
+.project-info .project-desc { color: #555; }
+.project-news-badge {
+    display: inline-block;
+    margin-left: 0.5em;
+    padding: 0.05em 0.55em;
+    font-size: .72em;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    color: #b45309;
+    background: #fef3c7;
+    border: 1px solid #fcd34d;
+    border-radius: 20px;
+    text-decoration: none !important;
+    vertical-align: middle;
+    transition: background .15s, color .15s;
+    letter-spacing: 0.02em;
+}
+.project-news-badge:hover {
+    background: #fde68a;
+    color: #92400e;
+    text-decoration: none !important;
+}
+
+/* ── Awards list ── */
+.awards-list { list-style: none; padding: 0; margin: 0; }
+.awards-list li { padding: 0.32em 0; font-size: .96em; color: #333; }
+.award-year {
+    display: inline-block;
+    min-width: 3em;
+    font-weight: 700;
+    color: #1a6fa8;
+    margin-right: 0.5em;
+}
+
+/* ── Academic services table ── */
+.service-table { width: 100%; border-collapse: collapse; margin: 0.3em 0; }
+.service-table td { padding: 0.38em 0.8em 0.38em 0; vertical-align: top; border: none; font-size: .94em; color: #333; }
+.service-table td:first-child {
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    color: #222;
+    padding-right: 1.8em;
+    width: 1%;
+}
+
+/* ── Year divider ── */
+hr.year-divider { border: none; border-top: 1px solid #ebebeb; margin: 0.5em 0 0; }
+
+/* ── Scroll to top ── */
+.xd-scroll-top {
+    position: fixed;
+    bottom: 28px; right: 28px;
+    width: 42px; height: 42px;
+    border-radius: 50%;
+    background: #fff;
+    border: 1.5px solid #d0d8e4;
+    color: #1a6fa8;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none !important;
+    opacity: 0;
+    visibility: hidden;
+    transition: all .25s;
+    z-index: 400;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+.xd-scroll-top.visible { opacity: 1; visibility: visible; }
+.xd-scroll-top:hover {
+    background: #1a6fa8;
+    color: #fff;
+    border-color: #1a6fa8;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(26,111,168,0.3);
+}
+
+/* ── Mobile responsive ── */
+@media (max-width: 620px) {
+    #main { padding: 70px 16px 60px !important; }
+    .xd-avatar { width: 100px; height: 100px; margin-left: 1em; }
+    .xd-bio h2 { font-size: 1.45em; }
+    .xd-nav-logo { font-size: .82em; }
+    .xd-nav-btn { padding: 5px 8px; font-size: .78em; letter-spacing: 0.01em; }
+    .xd-nav-links { gap: 1px; }
+    .xd-nav-inner { padding: 0 12px; }
+}
