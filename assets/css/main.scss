@@ -226,8 +226,10 @@ html { scroll-behavior: smooth; }
 }
 
 /* Global font & base */
+*, *::before, *::after {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
+}
 body {
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #222;
@@ -240,13 +242,13 @@ a:hover { color: #145a8a; text-decoration: underline; }
 
 /* Code / monospace */
 code, pre, kbd {
-    font-family: "JetBrains Mono", "Fira Code", "Menlo", monospace;
+    font-family: "JetBrains Mono", "Fira Code", "Menlo", monospace !important;
     font-size: .88em;
 }
 
 /* Single-column centered layout */
 #main {
-    max-width: 960px !important;
+    max-width: 1080px !important;
     margin: 0 auto !important;
     padding: 76px 28px 80px !important;
     float: none !important;
@@ -277,7 +279,7 @@ article.page {
     box-shadow: 0 1px 0 rgba(255,255,255,0.06), 0 2px 12px rgba(0,0,0,0.22);
 }
 .xd-nav-inner {
-    max-width: 960px;
+    max-width: 1080px;
     margin: 0 auto;
     width: 100%;
     padding: 0 28px;
@@ -332,15 +334,21 @@ article.page {
     font-family: "Inter", sans-serif;
 }
 .xd-bio-body {
-    overflow: hidden;
+    display: flex;
+    align-items: flex-start;
+    gap: 2.5em;
+}
+.xd-bio-text {
+    flex: 1;
+    min-width: 0;
 }
 .xd-avatar {
-    float: right;
+    flex-shrink: 0;
     width: 160px;
     height: 160px;
     border-radius: 50%;
     object-fit: cover;
-    margin: 0 0 1.5em 2.8em;
+    margin: 0;
     box-shadow: 0 4px 16px rgba(0,0,0,0.14);
     border: 3px solid #fff;
     outline: 1px solid #e0e0e0;
@@ -577,7 +585,9 @@ hr.year-divider { border: none; border-top: 1px solid #ebebeb; margin: 0.5em 0 0
 /* ── Mobile responsive ── */
 @media (max-width: 620px) {
     #main { padding: 70px 16px 60px !important; }
-    .xd-avatar { width: 100px; height: 100px; margin-left: 1em; }
+    .xd-bio-body { flex-direction: column; align-items: center; }
+    .xd-avatar { width: 110px; height: 110px; order: -1; }
+    .xd-bio-text { order: 1; }
     .xd-bio h2 { font-size: 1.45em; }
     .xd-nav-logo { font-size: .82em; }
     .xd-nav-btn { padding: 5px 8px; font-size: .78em; letter-spacing: 0.01em; }
