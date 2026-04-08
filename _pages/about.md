@@ -120,7 +120,7 @@ redirect_from:
   <li class="project-card">
     <div class="project-info">
       <span class="project-name"><a href="https://github.com/FIND-Lab/AgentWard" target="_blank">AgentWard</a></span>
-      <a class="project-news-badge" href="https://mp.weixin.qq.com/s/0_1O7dByjwCAAbGPof35PA" target="_blank">News</a>
+      <a class="project-news-badge" href="https://mp.weixin.qq.com/s/Fkq85NPh7wZv6Vw9ISEJjg" target="_blank">News</a>
       &nbsp;&nbsp;
       <span class="project-desc">A full-stack security operating system for trustworthy AI agent deployment, unifying onboarding, secure reasoning, and trusted execution through a heterogeneous defense-in-depth architecture.</span>
     </div>
