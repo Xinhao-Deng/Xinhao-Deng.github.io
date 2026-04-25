@@ -164,6 +164,13 @@ redirect_from:
 </div>
 
 <div class="paper-entry">
+  <span class="venue-badge venue-journal">ToN'26</span>
+  Yuqi Qing, Qilei Yin, <b><u>Xinhao Deng</u></b>, Yihao Chen, Zhuotao Liu, Kun Sun, Ke Xu, Jia Zhang, Qi Li.<br>
+  <span class="paper-title">Towards Robust Detection of Malicious Encrypted Traffic Using Only Low-Quality Training Data.</span><br>
+  IEEE/ACM Transactions on Networking, 2026.
+</div>
+
+<div class="paper-entry">
   <span class="venue-badge venue-top">WWW'26</span>
   Xiyuan Zhao, <b><u>Xinhao Deng</u></b>, Tianyu Cui, Yixiang Zhang, Ke Xu, Qi Li.<br>
   <span class="paper-title">Robust LLM-Based Website Fingerprinting under Dynamic Real-World Conditions.</span><br>
