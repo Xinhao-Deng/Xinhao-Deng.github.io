@@ -1,0 +1,48 @@
+type = "card"
+title = "荣誉与奖项"
+description = "代表性荣誉与奖项。"
+
+[[items]]
+title = "2026年智博会前沿科技成果创新技术奖"
+subtitle = "中国智能产业博览会"
+date = "2026"
+
+[[items]]
+title = "清华大学优秀博士学位论文"
+subtitle = "清华大学"
+date = "2025"
+
+[[items]]
+title = "中国电子学会科技进步一等奖"
+subtitle = "中国电子学会"
+date = "2024"
+
+[[items]]
+title = "ACM CCS 2024 Student Travel Grant"
+subtitle = "ACM CCS"
+date = "2024"
+
+[[items]]
+title = "清华大学一等奖学金"
+subtitle = "清华大学"
+date = "2024"
+
+[[items]]
+title = "清华–龙湖奖学金"
+subtitle = "清华大学"
+date = "2023"
+
+[[items]]
+title = "清华大学一等奖学金"
+subtitle = "清华大学"
+date = "2022"
+
+[[items]]
+title = "国家奖学金"
+subtitle = "教育部"
+date = "2019"
+
+[[items]]
+title = "ACM-ICPC 国际大学生程序设计竞赛亚洲区域赛 金奖"
+subtitle = "国际计算机协会（ACM）"
+date = "2018"

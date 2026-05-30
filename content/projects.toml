@@ -1,0 +1,31 @@
+type = "card"
+title = "Open Source Projects"
+description = "Open-source projects I have led or contributed to."
+
+[[items]]
+title = "AgentAegis &nbsp;[[News](https://mp.weixin.qq.com/s/7fuQB5zJ_ll1jAIsf5JmKQ)]"
+subtitle = "github.com/antgroup/agent-aegis"
+date = "2026"
+content = "A lightweight built-in security plugin for **OpenClaw** that enforces defense-in-depth runtime protection across the full LLM agent lifecycle — from initialization to execution."
+tags = ["LLM Agent Security", "Runtime Defense"]
+
+[[items]]
+title = "Agent3σ (Agent3Sigma) &nbsp;[[News](https://mp.weixin.qq.com/s/cgYyd80PRdwWsEBCtg8HcQ?spm=ata.21736010.0.0.2a4abWnJbWnJjE)]"
+subtitle = "github.com/antgroup/Agent3Sigma"
+date = "2026"
+content = "The first multi-level safety evaluation platform for OpenClaw-style AI agents, jointly released by Tsinghua University, Peking University, Zhejiang University, Nanjing University, Hangzhou Dianzi University, and Ant Group. Provides a three-tier (L1/L2/L3) evaluation framework over 7 risk dimensions."
+tags = ["LLM Agent Security", "Safety Evaluation", "Benchmark"]
+
+[[items]]
+title = "AgentWard &nbsp;[[News](https://mp.weixin.qq.com/s/Fkq85NPh7wZv6Vw9ISEJjg)]"
+subtitle = "github.com/FIND-Lab/AgentWard"
+date = "2026"
+content = "A full-stack security operating system for trustworthy AI agent deployment, unifying onboarding, secure reasoning, and trusted execution through a heterogeneous defense-in-depth architecture."
+tags = ["Agent Security", "Trusted Execution"]
+
+[[items]]
+title = "WFlib &nbsp;[[News](https://mp.weixin.qq.com/s/Yvj9AaAX8pa6jWMvFEu7Rg)]"
+subtitle = "github.com/FIND-Lab/Website-Fingerprinting-Library"
+date = "2024"
+content = "A PyTorch-based open-source benchmark library implementing 11 state-of-the-art deep learning website fingerprinting attacks on a unified, reproducible framework with multi-dataset support."
+tags = ["Website Fingerprinting", "Benchmark", "PyTorch"]

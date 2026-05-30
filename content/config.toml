@@ -1,0 +1,69 @@
+[site]
+title = "Xinhao Deng"
+description = "Personal website of Xinhao Deng — Algorithm Expert at Ant Group and Postdoctoral Researcher at Tsinghua University."
+favicon = "/favicon.svg"
+last_updated = "May 30, 2026"
+
+[author]
+name = "Xinhao Deng"
+title = "Ant Group & Tsinghua University"
+institution = ""
+avatar = "/xinhao.jpg"
+
+[social]
+email = "xinhaodeng.thu@gmail.com"
+location = "Hangzhou, China"
+location_details = [
+  "Ant Group",
+  "Hangzhou, China"
+]
+google_scholar = "https://scholar.google.com/citations?user=EpTTZrwAAAAJ"
+orcid = "https://orcid.org/0000-0002-4366-4777"
+github = "https://github.com/Xinhao-Deng"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+en = "English"
+zh = "中文"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"

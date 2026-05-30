@@ -1,0 +1,49 @@
+type = "card"
+title = "Honors & Awards"
+description = "Selected honors and awards I have received."
+
+
+[[items]]
+title = "Innovative Technology Award at the 2026 World Intelligence Expo"
+subtitle = "World Intelligence Expo"
+date = "2026"
+
+[[items]]
+title = "Outstanding Doctoral Dissertation of Tsinghua University"
+subtitle = "Tsinghua University"
+date = "2025"
+
+[[items]]
+title = "Science and Technology Award (1st Class)"
+subtitle = "Chinese Institute of Electronics"
+date = "2024"
+
+[[items]]
+title = "Student Travel Grant"
+subtitle = "ACM CCS 2024"
+date = "2024"
+
+[[items]]
+title = "1st-Class Scholarship, Tsinghua University"
+subtitle = "Tsinghua University"
+date = "2024"
+
+[[items]]
+title = "Tsinghua–Longfor Scholarship"
+subtitle = "Tsinghua University"
+date = "2023"
+
+[[items]]
+title = "1st-Class Scholarship, Tsinghua University"
+subtitle = "Tsinghua University"
+date = "2022"
+
+[[items]]
+title = "China National Scholarship"
+subtitle = "Ministry of Education"
+date = "2019"
+
+[[items]]
+title = "Gold Medal, ACM-ICPC Asia Regional Contest"
+subtitle = "Association for Computing Machinery (ACM)"
+date = "2018"

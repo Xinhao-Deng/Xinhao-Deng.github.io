@@ -1,0 +1,31 @@
+[[news]]
+date = "2026-02"
+content = "Two papers accepted by **IEEE/ACM Transactions on Networking** (ToN'26). 🎉"
+
+[[news]]
+date = "2026-01"
+content = "Paper accepted by **NDSS 2026** on enhancing website fingerprinting attacks against traffic drift."
+
+[[news]]
+date = "2026-01"
+content = "Paper accepted by **WWW 2026** on robust LLM-based website fingerprinting."
+
+[[news]]
+date = "2026-01"
+content = "Paper accepted by **IEEE INFOCOM 2026** on zero-shot HTTPS website fingerprinting (STAR)."
+
+[[news]]
+date = "2025-09"
+content = "Released [ClawAegis](https://github.com/antgroup/ClawAegis) — a defense-in-depth runtime security plugin for OpenClaw LLM agents."
+
+[[news]]
+date = "2025-06"
+content = "Awarded **Outstanding Doctoral Dissertation of Tsinghua University**. 🏅"
+
+[[news]]
+date = "2025-06"
+content = "Completed my Ph.D. at the Institute for Network Sciences and Cyberspace, Tsinghua University. Joined **Ant Group** as Algorithm Expert."
+
+[[news]]
+date = "2025-06"
+content = "Paper accepted by **ACM CCS 2025** on robust encrypted traffic classification under dynamic network conditions."

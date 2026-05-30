@@ -1,0 +1,46 @@
+[site]
+title = "邓欣豪"
+description = "邓欣豪 — 蚂蚁集团算法专家，清华大学博士后。"
+last_updated = "2026年5月30日"
+
+[author]
+name = "邓欣豪"
+title = "蚂蚁集团 & 清华大学"
+institution = ""
+
+[social]
+location = "中国 杭州"
+location_details = [
+  "蚂蚁集团",
+  "中国 杭州"
+]
+
+[[navigation]]
+title = "简介"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "开源项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "荣誉与奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "学术服务"
+type = "page"
+target = "services"
+href = "/services"

@@ -1,0 +1,15 @@
+type = "card"
+title = "Academic Services"
+description = "Reviewing and community service for academic venues."
+
+[[items]]
+title = "Conference Reviewer"
+content = "WWW'25, SecureComm'23, ACSAC'22, ACSAC'20."
+
+[[items]]
+title = "Journal Reviewer"
+content = "IEEE TIFS, IEEE TDSC, IEEE TNSM."
+
+[[items]]
+title = "Artifact Evaluation Committee"
+content = "USENIX Security'25, ACM CCS'24, ACSAC'22."

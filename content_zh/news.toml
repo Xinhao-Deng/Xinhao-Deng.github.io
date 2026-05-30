@@ -1,0 +1,31 @@
+[[news]]
+date = "2026-02"
+content = "两篇论文被 **IEEE/ACM Transactions on Networking** (ToN'26) 录用。🎉"
+
+[[news]]
+date = "2026-01"
+content = "一篇关于流量漂移下网站指纹攻击鲁棒性的论文被 **NDSS 2026** 录用。"
+
+[[news]]
+date = "2026-01"
+content = "一篇基于大模型的网站指纹识别论文被 **WWW 2026** 录用。"
+
+[[news]]
+date = "2026-01"
+content = "STAR：零样本 HTTPS 网站指纹识别的论文被 **IEEE INFOCOM 2026** 录用。"
+
+[[news]]
+date = "2025-09"
+content = "发布 [ClawAegis](https://github.com/antgroup/ClawAegis) —— 面向 OpenClaw 智能体的纵深防御运行时安全插件。"
+
+[[news]]
+date = "2025-06"
+content = "博士学位论文获**清华大学优秀博士学位论文**。🏅"
+
+[[news]]
+date = "2025-06"
+content = "在清华大学网络科学与网络空间研究院完成博士学业，正式加入**蚂蚁集团**担任算法专家。"
+
+[[news]]
+date = "2025-06"
+content = "动态网络条件下的加密流量分类论文被 **ACM CCS 2025** 录用。"

@@ -1,0 +1,31 @@
+type = "card"
+title = "开源项目"
+description = "我主导或参与的开源项目。"
+
+[[items]]
+title = "AgentAegis &nbsp;[[报道](https://mp.weixin.qq.com/s/7fuQB5zJ_ll1jAIsf5JmKQ)]"
+subtitle = "github.com/antgroup/agent-aegis"
+date = "2026"
+content = "面向 **OpenClaw** 的轻量级内置安全插件，在大模型智能体的全生命周期（从初始化到执行）提供纵深防御的运行时保护。"
+tags = ["智能体安全", "运行时防御"]
+
+[[items]]
+title = "Agent3σ (Agent3Sigma) &nbsp;[[报道](https://mp.weixin.qq.com/s/cgYyd80PRdwWsEBCtg8HcQ?spm=ata.21736010.0.0.2a4abWnJbWnJjE)]"
+subtitle = "github.com/antgroup/Agent3Sigma"
+date = "2026"
+content = "面向 OpenClaw 类大模型智能体的首个多层次安全评测平台，由清华大学、北京大学、浙江大学、南京大学、杭州电子科技大学与蚂蚁集团联合发布；覆盖 7 大风险维度，提供 L1/L2/L3 三层评测框架。"
+tags = ["智能体安全", "安全评测", "基准"]
+
+[[items]]
+title = "AgentWard &nbsp;[[报道](https://mp.weixin.qq.com/s/Fkq85NPh7wZv6Vw9ISEJjg)]"
+subtitle = "github.com/FIND-Lab/AgentWard"
+date = "2026"
+content = "面向可信智能体部署的全栈安全操作系统，统一了智能体的接入、安全推理与可信执行，构建异构纵深防御体系。"
+tags = ["智能体安全", "可信执行"]
+
+[[items]]
+title = "WFlib &nbsp;[[报道](https://mp.weixin.qq.com/s/Yvj9AaAX8pa6jWMvFEu7Rg)]"
+subtitle = "github.com/FIND-Lab/Website-Fingerprinting-Library"
+date = "2024"
+content = "基于 PyTorch 的开源基准库，在统一、可复现的框架中实现了 11 种最新的深度学习网站指纹攻击方法，支持多数据集评估。"
+tags = ["网站指纹", "基准库", "PyTorch"]
