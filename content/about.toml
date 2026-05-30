@@ -12,4 +12,4 @@ id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
 filter = "selected"
-limit = 10
+limit = 11
