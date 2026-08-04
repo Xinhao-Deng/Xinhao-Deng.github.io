@@ -25,11 +25,9 @@ interface NavigationProps {
 
 export default function Navigation({
   items,
-  siteTitle,
   enableOnePageMode,
   i18n,
   itemsByLocale,
-  siteTitleByLocale,
 }: NavigationProps) {
   const pathname = usePathname();
   const locale = useLocaleStore((state) => state.locale);
@@ -49,10 +47,6 @@ export default function Navigation({
   const effectiveItems = useMemo(() => {
     return itemsByLocale?.[resolvedLocale] || itemsByLocale?.[i18n.defaultLocale] || items;
   }, [i18n.defaultLocale, items, itemsByLocale, resolvedLocale]);
-
-  const effectiveSiteTitle = useMemo(() => {
-    return siteTitleByLocale?.[resolvedLocale] || siteTitleByLocale?.[i18n.defaultLocale] || siteTitle;
-  }, [i18n.defaultLocale, resolvedLocale, siteTitle, siteTitleByLocale]);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -173,20 +167,7 @@ export default function Navigation({
             )}
           >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="flex justify-between items-center h-16 lg:h-20">
-                <motion.div
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  className="flex-shrink-0"
-                >
-                  <Link
-                    href="/"
-                    className="text-xl lg:text-2xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
-                  >
-                    {effectiveSiteTitle}
-                  </Link>
-                </motion.div>
-
+              <div className="flex justify-end items-center h-16 lg:h-20">
                 <div className="hidden lg:block">
                   <div className="ml-10 flex items-center space-x-3">
                     <div

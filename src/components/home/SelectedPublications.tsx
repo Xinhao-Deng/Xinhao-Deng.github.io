@@ -69,8 +69,18 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                 ? `arXiv ${pub.year}`
                                 : `${pub.journal || pub.conference}, ${pub.year}`}
                         </p>
+                        {pub.url && (
+                            <a
+                                href={pub.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                            >
+                                [PDF]
+                            </a>
+                        )}
                         {pub.description && (
-                            <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
+                            <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2 mt-2">
                                 {pub.description}
                             </p>
                         )}
