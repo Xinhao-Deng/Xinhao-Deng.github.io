@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { Publication } from '@/types/publication';
 import { useMessages } from '@/lib/i18n/useMessages';
-import FormattedBibTeXText from '@/components/publications/FormattedBibTeXText';
+import PublicationCard from '@/components/publications/PublicationCard';
 
 interface SelectedPublicationsProps {
     publications: Publication[];
@@ -12,7 +12,11 @@ interface SelectedPublicationsProps {
     enableOnePageMode?: boolean;
 }
 
-export default function SelectedPublications({ publications, title, enableOnePageMode = false }: SelectedPublicationsProps) {
+export default function SelectedPublications({
+    publications,
+    title,
+    enableOnePageMode = false,
+}: SelectedPublicationsProps) {
     const messages = useMessages();
     const resolvedTitle = title || messages.home.selectedPublications;
 
@@ -22,12 +26,12 @@ export default function SelectedPublications({ publications, title, enableOnePag
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
         >
-            <div className="flex items-center justify-between mb-4">
+            <div className="mb-4 flex items-center justify-between">
                 <h2 className="text-2xl font-serif font-bold text-primary">{resolvedTitle}</h2>
                 <Link
-                    href={enableOnePageMode ? "/#publications" : "/publications"}
-                    prefetch={true}
-                    className="text-accent hover:text-accent-dark text-sm font-medium transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm"
+                    href={enableOnePageMode ? '/#publications' : '/publications'}
+                    prefetch
+                    className="rounded text-sm font-medium text-accent transition-all duration-200 hover:bg-accent/10 hover:text-accent-dark hover:shadow-sm"
                 >
                     {messages.home.viewAll} →
                 </Link>
@@ -35,56 +39,14 @@ export default function SelectedPublications({ publications, title, enableOnePag
             <p className="mb-4 text-xs text-neutral-500 dark:text-neutral-500">
                 <sup>*</sup> Equal contribution &nbsp; &nbsp; <sup>✉</sup> Corresponding author
             </p>
-            <div className="space-y-4">
-                {publications.map((pub, index) => (
-                    <motion.div
-                        key={pub.id}
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.4, delay: 0.1 * index }}
-                        className="bg-neutral-50 dark:bg-neutral-800 p-4 rounded-lg shadow-sm border border-neutral-200 dark:border-[rgba(148,163,184,0.24)] hover:shadow-lg transition-all duration-200 hover:scale-[1.02]"
-                    >
-                        <h3 className="font-semibold text-primary mb-2 leading-tight">
-                            <span className="text-neutral-500 dark:text-neutral-400 mr-2">[{publications.length - index}]</span>
-                            <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
-                        </h3>
-                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-1">
-                            {pub.authors.map((author, idx) => (
-                                <span key={idx}>
-                                    <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''}`}>
-                                        {author.name}
-                                    </span>
-                                    {author.isCoAuthor && (
-                                        <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-500'}`}>*</sup>
-                                    )}
-                                    {author.isCorresponding && (
-                                        <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-500'}`} title="Corresponding author">✉</sup>
-                                    )}
-                                    {idx < pub.authors.length - 1 && ', '}
-                                </span>
-                            ))}
-                        </p>
-                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-2">
-                            {pub.type === 'preprint'
-                                ? `arXiv ${pub.year}`
-                                : `${pub.journal || pub.conference}, ${pub.year}`}
-                        </p>
-                        {pub.url && (
-                            <a
-                                href={pub.url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
-                            >
-                                [PDF]
-                            </a>
-                        )}
-                        {pub.description && (
-                            <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2 mt-2">
-                                {pub.description}
-                            </p>
-                        )}
-                    </motion.div>
+            <div className="space-y-6">
+                {publications.map((publication, index) => (
+                    <PublicationCard
+                        key={publication.id}
+                        publication={publication}
+                        number={publications.length - index}
+                        index={index}
+                    />
                 ))}
             </div>
         </motion.section>
