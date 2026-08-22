@@ -16,14 +16,12 @@ import FormattedBibTeXText from './FormattedBibTeXText';
 interface PublicationCardProps {
     publication: Publication;
     number: number;
-    embedded?: boolean;
     index?: number;
 }
 
 export default function PublicationCard({
     publication: pub,
     number,
-    embedded = false,
     index = 0,
 }: PublicationCardProps) {
     const messages = useMessages();
@@ -53,11 +51,11 @@ export default function PublicationCard({
                     </div>
                 )}
                 <div className="flex-grow">
-                    <h3 className={`${embedded ? 'text-lg' : 'text-xl'} font-semibold text-primary mb-2 leading-tight`}>
+                    <h3 className="text-base font-semibold text-primary mb-2 leading-tight">
                         <span className="text-neutral-500 dark:text-neutral-400 mr-2">[{number}]</span>
                         <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
                     </h3>
-                    <p className={`${embedded ? 'text-sm' : 'text-base'} text-neutral-600 dark:text-neutral-400 mb-2`}>
+                    <p className="text-sm text-neutral-600 dark:text-neutral-400 mb-2">
                         {pub.authors.map((author, authorIndex) => (
                             <span key={authorIndex}>
                                 <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''}`}>

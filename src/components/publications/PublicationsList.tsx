@@ -190,7 +190,6 @@ export default function PublicationsList({ config, publications, embedded = fals
                             key={publication.id}
                             publication={publication}
                             number={filteredPublications.length - index}
-                            embedded={embedded}
                             index={index}
                         />
                     ))
