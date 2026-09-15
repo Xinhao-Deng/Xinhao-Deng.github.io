@@ -11,5 +11,4 @@ title = "简介"
 id = "featured_publications"
 type = "publications"
 title = "精选论文"
-filter = "selected"
-limit = 20
+filter = "ccf-a"

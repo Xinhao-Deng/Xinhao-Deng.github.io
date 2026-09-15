@@ -42,10 +42,14 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         const allPubs = parseBibTeX(bibtex, locale);
         const filteredPubs = section.filter === 'selected'
           ? allPubs.filter((p) => p.selected)
-          : allPubs;
+          : section.filter === 'ccf-a'
+            ? allPubs.filter((p) => p.ccfRank === 'A')
+            : allPubs;
         return {
           ...section,
-          publications: filteredPubs.slice(0, section.limit || 5),
+          publications: section.limit && section.limit > 0
+            ? filteredPubs.slice(0, section.limit)
+            : filteredPubs,
         };
       }
       case 'list': {
