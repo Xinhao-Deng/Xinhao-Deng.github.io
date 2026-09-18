@@ -8,13 +8,6 @@ name = "邓欣豪"
 title = "蚂蚁集团 & 清华大学"
 institution = ""
 
-[social]
-location = "中国 杭州"
-location_details = [
-  "蚂蚁集团",
-  "中国 杭州"
-]
-
 [[navigation]]
 title = "简介"
 type = "page"

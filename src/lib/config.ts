@@ -18,9 +18,7 @@ export interface SiteConfig {
   };
   social: {
     email?: string;
-    location?: string;
-    location_url?: string;
-    location_details?: string[];
+    xiaohongshu?: string;
     google_scholar?: string;
     orcid?: string;
     github?: string;

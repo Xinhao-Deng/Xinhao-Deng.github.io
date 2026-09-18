@@ -12,11 +12,7 @@ avatar = "/xinhao.jpg"
 
 [social]
 email = "xinhaodeng.thu@gmail.com"
-location = "Hangzhou, China"
-location_details = [
-  "Ant Group",
-  "Hangzhou, China"
-]
+xiaohongshu = "https://www.xiaohongshu.com/user/profile/69fee9110000000002001401"
 google_scholar = "https://scholar.google.com/citations?user=EpTTZrwAAAAJ"
 orcid = "https://orcid.org/0000-0002-4366-4777"
 github = "https://github.com/Xinhao-Deng"
